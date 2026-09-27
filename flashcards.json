@@ -1,0 +1,3502 @@
+[
+  {
+    "chapter": 1,
+    "front": "What is the normal thickness range of the left ventricular wall at end-diastole?",
+    "back": "Roughly 8 to 11 millimeters, considerably thicker than the right ventricle because the left ventricle must overcome much higher systemic resistance.",
+    "domain": "foundations",
+    "id": 1
+  },
+  {
+    "chapter": 1,
+    "front": "Why does an acute pericardial effusion of only 150 to 200 mL cause tamponade while a slow effusion can reach a liter without compromise?",
+    "back": "The fibrous pericardium is relatively inelastic, so it cannot stretch quickly; a slowly accumulating effusion allows the fibrous layer time to stretch and accommodate far more volume.",
+    "domain": "foundations",
+    "id": 2
+  },
+  {
+    "chapter": 1,
+    "front": "Which papillary muscle is more vulnerable to ischemic rupture after myocardial infarction, and why?",
+    "back": "The posteromedial papillary muscle, because it typically has a single blood supply, most often from the posterior descending artery, unlike the anterolateral muscle's dual supply.",
+    "domain": "foundations",
+    "id": 3
+  },
+  {
+    "chapter": 1,
+    "front": "What percentage of people have right dominant coronary circulation?",
+    "back": "Roughly 70 percent, meaning the right coronary artery gives rise to the posterior descending artery.",
+    "domain": "foundations",
+    "id": 4
+  },
+  {
+    "chapter": 1,
+    "front": "Why does proximal LAD occlusion commonly cause new bundle branch block?",
+    "back": "Septal perforator branches from the LAD supply the bundle branches, so occlusion of the proximal LAD can infarct the conduction tissue itself.",
+    "domain": "foundations",
+    "id": 5
+  },
+  {
+    "chapter": 1,
+    "front": "What is the intrinsic pacemaker rate of the sinoatrial node in a resting adult?",
+    "back": "Roughly 60 to 100 beats per minute, driven by the funny current and a slow inward calcium current during phase 4 depolarization.",
+    "domain": "foundations",
+    "id": 6
+  },
+  {
+    "chapter": 1,
+    "front": "What does the width of a pressure-volume loop along the volume axis represent?",
+    "back": "Stroke volume, the difference between end-diastolic and end-systolic volume.",
+    "domain": "foundations",
+    "id": 7
+  },
+  {
+    "chapter": 1,
+    "front": "What percentage of ventricular filling does atrial contraction normally contribute?",
+    "back": "Roughly 15 to 25 percent in a normal heart, though this contribution increases when ventricular compliance is reduced.",
+    "domain": "foundations",
+    "id": 8
+  },
+  {
+    "chapter": 1,
+    "front": "By Laplace's law, what three factors determine ventricular wall stress?",
+    "back": "Wall stress is proportional to intraventricular pressure multiplied by chamber radius, divided by wall thickness.",
+    "domain": "foundations",
+    "id": 9
+  },
+  {
+    "chapter": 1,
+    "front": "What happens to the Frank-Starling curve when myocardial contractility falls, as in systolic heart failure?",
+    "back": "The curve shifts downward and flattens, so increases in preload produce only modest gains in stroke volume while filling pressures and congestion worsen.",
+    "domain": "foundations",
+    "id": 10
+  },
+  {
+    "chapter": 1,
+    "front": "Why is heart rate the single most important determinant of myocardial oxygen demand in most clinical settings?",
+    "back": "It directly raises the number of contractions per minute and disproportionately shortens diastole, which also reduces the time available for coronary filling.",
+    "domain": "foundations",
+    "id": 11
+  },
+  {
+    "chapter": 1,
+    "front": "What generates the first heart sound (S1)?",
+    "back": "Closure of the mitral and tricuspid valves at the onset of isovolumic contraction, with mitral closure normally preceding tricuspid closure slightly.",
+    "domain": "foundations",
+    "id": 12
+  },
+  {
+    "chapter": 1,
+    "front": "What causes physiologic splitting of the second heart sound to widen during inspiration?",
+    "back": "Increased venous return to the right heart during inspiration prolongs right ventricular ejection and delays pulmonic valve closure relative to aortic closure.",
+    "domain": "foundations",
+    "id": 13
+  },
+  {
+    "chapter": 1,
+    "front": "What is the mechanism of a fourth heart sound (S4), and why is it essentially always pathologic in an adult?",
+    "back": "It reflects blood being forced into a stiff, noncompliant ventricle during atrial contraction; it requires coordinated atrial systole and reflects reduced ventricular compliance, which is abnormal in adults.",
+    "domain": "foundations",
+    "id": 14
+  },
+  {
+    "chapter": 1,
+    "front": "What is coronary flow reserve, and what is its typical value in a healthy coronary artery?",
+    "back": "The ratio of maximal achievable coronary blood flow to resting flow; typically four to five fold in a healthy artery.",
+    "domain": "foundations",
+    "id": 15
+  },
+  {
+    "chapter": 1,
+    "front": "What is the fibrous skeleton of the heart, and what is one of its key electrical functions?",
+    "back": "A connective tissue framework of four fibrous rings and trigones that electrically insulates the atria from the ventricles everywhere except at the AV node.",
+    "domain": "foundations",
+    "id": 16
+  },
+  {
+    "chapter": 1,
+    "front": "Approximately what percentage of delivered oxygen does the resting myocardium extract from coronary blood?",
+    "back": "Roughly 70 to 80 percent, far higher than resting skeletal muscle, leaving little reserve to increase extraction further.",
+    "domain": "foundations",
+    "id": 17
+  },
+  {
+    "chapter": 2,
+    "front": "What does Einthoven's law state about the relationship between leads I, II, and III?",
+    "back": "Lead II always equals the sum of leads I and III at any instant, a mathematical consequence of Einthoven's triangle.",
+    "domain": "diagnostics",
+    "id": 18
+  },
+  {
+    "chapter": 2,
+    "front": "What is the normal range for the PR interval, and what does a PR interval shorter than 120 milliseconds suggest?",
+    "back": "Normal is 120 to 200 milliseconds; a shorter PR interval suggests an accessory pathway bypassing the AV node or a low atrial/junctional rhythm.",
+    "domain": "diagnostics",
+    "id": 19
+  },
+  {
+    "chapter": 2,
+    "front": "What are the Sokolow-Lyon voltage criteria for left ventricular hypertrophy?",
+    "back": "The sum of the S wave in V1 and the R wave in V5 or V6 exceeding 35 millimeters, or an R wave in aVL exceeding 11 millimeters.",
+    "domain": "diagnostics",
+    "id": 20
+  },
+  {
+    "chapter": 2,
+    "front": "Why does right bundle branch block generally preserve the ability to diagnose a prior infarction by Q waves, unlike left bundle branch block?",
+    "back": "The initial depolarization forces, driven by the left bundle and septum, are unaffected in right bundle branch block, since only late right ventricular activation is delayed.",
+    "domain": "diagnostics",
+    "id": 21
+  },
+  {
+    "chapter": 2,
+    "front": "What are the Sgarbossa criteria used for?",
+    "back": "Identifying acute myocardial infarction in patients with baseline left bundle branch block, using concordant ST changes rather than standard ST criteria.",
+    "domain": "diagnostics",
+    "id": 22
+  },
+  {
+    "chapter": 2,
+    "front": "Which lead groups localize an inferior wall myocardial infarction?",
+    "back": "Leads II, III, and aVF, typically reflecting right coronary artery or dominant circumflex occlusion.",
+    "domain": "diagnostics",
+    "id": 23
+  },
+  {
+    "chapter": 2,
+    "front": "How does isolated posterior wall infarction appear on the standard 12-lead ECG, and how is it confirmed?",
+    "back": "It produces ST depression and tall, broad R waves in V1 through V3 rather than ST elevation; it is confirmed with posterior leads V7 through V9.",
+    "domain": "diagnostics",
+    "id": 24
+  },
+  {
+    "chapter": 2,
+    "front": "Why should nitrates be used cautiously in a patient with inferior MI and right ventricular involvement?",
+    "back": "A right ventricle infarcted along with the inferior wall becomes preload-dependent, and nitrates can precipitate severe, difficult-to-reverse hypotension.",
+    "domain": "diagnostics",
+    "id": 25
+  },
+  {
+    "chapter": 2,
+    "front": "What distinguishes the ST elevation of acute pericarditis from that of myocardial infarction?",
+    "back": "Pericarditis produces diffuse, concave ST elevation with PR depression and no reciprocal changes, unlike the territorial, convex elevation with reciprocal changes seen in infarction.",
+    "domain": "diagnostics",
+    "id": 26
+  },
+  {
+    "chapter": 2,
+    "front": "What ECG axis and QRS pattern characterize left anterior fascicular block?",
+    "back": "Left axis deviation more negative than minus 45 degrees, with a qR pattern in lead I and aVL and an rS pattern in the inferior leads.",
+    "domain": "diagnostics",
+    "id": 27
+  },
+  {
+    "chapter": 2,
+    "front": "What ECG changes occur with progressive hyperkalemia?",
+    "back": "Tall peaked T waves first, then flattening/loss of the P wave, PR prolongation, QRS widening, and eventually a sine-wave pattern preceding ventricular fibrillation or asystole.",
+    "domain": "diagnostics",
+    "id": 28
+  },
+  {
+    "chapter": 2,
+    "front": "What is the Osborn wave, and what condition is it associated with?",
+    "back": "A positive deflection at the junction of the QRS and ST segment, seen in hypothermia and becoming more prominent as core temperature falls.",
+    "domain": "diagnostics",
+    "id": 29
+  },
+  {
+    "chapter": 2,
+    "front": "What ECG finding is essentially diagnostic of ventricular tachycardia when clearly present during a wide complex tachycardia?",
+    "back": "Atrioventricular dissociation, where P waves march through the tracing independently of the QRS complexes.",
+    "domain": "diagnostics",
+    "id": 30
+  },
+  {
+    "chapter": 2,
+    "front": "What corrected QT interval threshold carries substantially increased risk of torsades de pointes?",
+    "back": "A corrected QT interval exceeding roughly 500 milliseconds.",
+    "domain": "diagnostics",
+    "id": 31
+  },
+  {
+    "chapter": 2,
+    "front": "What is the classic ST-segment finding of digoxin effect, and how does it differ from digoxin toxicity?",
+    "back": "A scooped or 'reverse tick' ST depression, which can occur at therapeutic levels; toxicity is better indicated by arrhythmias like accelerated junctional rhythm or atrial tachycardia with block.",
+    "domain": "diagnostics",
+    "id": 32
+  },
+  {
+    "chapter": 2,
+    "front": "How is heart rate estimated quickly from an ECG using the large-box method?",
+    "back": "Count the number of large boxes between consecutive R waves and divide 300 by that number, since each large box represents 0.2 seconds.",
+    "domain": "diagnostics",
+    "id": 33
+  },
+  {
+    "chapter": 2,
+    "front": "Why is a right-sided precordial lead used to detect right ventricular infarction, and which lead is it?",
+    "back": "Lead V4R shows ST elevation when the right ventricle is involved, which standard left-sided precordial leads cannot detect.",
+    "domain": "diagnostics",
+    "id": 34
+  },
+  {
+    "chapter": 3,
+    "front": "What is the recommended standard echocardiographic method for quantifying ejection fraction?",
+    "back": "The modified Simpson's biplane method of disks, using apical four-chamber and two-chamber views traced at end-diastole and end-systole.",
+    "domain": "diagnostics",
+    "id": 35
+  },
+  {
+    "chapter": 3,
+    "front": "Why is continuous wave Doppler needed to measure velocity across a severely stenotic valve, rather than pulsed wave Doppler?",
+    "back": "Pulsed wave Doppler is limited by aliasing above the Nyquist limit; continuous wave Doppler sacrifices spatial resolution but measures high velocities without aliasing.",
+    "domain": "diagnostics",
+    "id": 36
+  },
+  {
+    "chapter": 3,
+    "front": "What is the simplified Bernoulli equation used in echocardiography, and what does it calculate?",
+    "back": "Gradient (mmHg) equals four times the peak velocity squared (m/s); it calculates the pressure gradient across a stenotic valve.",
+    "domain": "diagnostics",
+    "id": 37
+  },
+  {
+    "chapter": 3,
+    "front": "What does a biphasic response on low-dose dobutamine stress echocardiography indicate?",
+    "back": "Viable, hibernating myocardium with contractile reserve likely to improve with revascularization: improvement at low dose, then worsening at higher dose.",
+    "domain": "diagnostics",
+    "id": 38
+  },
+  {
+    "chapter": 3,
+    "front": "What coronary artery calcium score range is considered severe, and what scoring system is used?",
+    "back": "A score greater than 400 using the Agatston scoring system, which incorporates area and density of calcified plaque.",
+    "domain": "diagnostics",
+    "id": 39
+  },
+  {
+    "chapter": 3,
+    "front": "Why does coronary CT angiography have a very high negative predictive value in intermediate pretest probability patients?",
+    "back": "Its excellent spatial resolution of the coronary lumen makes a normal study highly reliable for excluding obstructive disease in this population.",
+    "domain": "diagnostics",
+    "id": 40
+  },
+  {
+    "chapter": 3,
+    "front": "What late gadolinium enhancement pattern on cardiac MRI suggests ischemic rather than nonischemic scar?",
+    "back": "A subendocardial or transmural pattern that respects a coronary artery distribution, as opposed to a mid-myocardial or subepicardial pattern.",
+    "domain": "diagnostics",
+    "id": 41
+  },
+  {
+    "chapter": 3,
+    "front": "What does a fixed defect on nuclear myocardial perfusion imaging represent, compared with a reversible defect?",
+    "back": "A fixed defect (reduced uptake at both stress and rest) represents prior infarction or scar; a reversible defect represents inducible ischemia.",
+    "domain": "diagnostics",
+    "id": 42
+  },
+  {
+    "chapter": 3,
+    "front": "What E to A ratio pattern characterizes impaired relaxation, the earliest stage of diastolic dysfunction?",
+    "back": "A low E to A ratio (below 1) with a prolonged deceleration time.",
+    "domain": "diagnostics",
+    "id": 43
+  },
+  {
+    "chapter": 3,
+    "front": "Why is transesophageal echocardiography preferred over transthoracic imaging for assessing the left atrial appendage?",
+    "back": "The appendage's irregular, blind-ending anatomy is poorly seen transthoracically, while the transesophageal window images it directly and with high resolution.",
+    "domain": "diagnostics",
+    "id": 44
+  },
+  {
+    "chapter": 3,
+    "front": "What is the mechanism behind agitated saline contrast echocardiography detecting a patent foramen ovale?",
+    "back": "Agitated saline microbubbles are too large to cross the pulmonary capillary bed, so their appearance in the left heart after right heart opacification indicates a right-to-left shunt.",
+    "domain": "diagnostics",
+    "id": 45
+  },
+  {
+    "chapter": 3,
+    "front": "What artifact causes overestimation of stenosis severity on coronary CT angiography in heavily calcified vessels?",
+    "back": "Blooming artifact, an overestimation of the true size of dense calcified structures on CT reconstruction.",
+    "domain": "diagnostics",
+    "id": 46
+  },
+  {
+    "chapter": 3,
+    "front": "Why must gadolinium-based contrast be used cautiously in patients with severe renal impairment?",
+    "back": "Because of the rare but serious risk of nephrogenic systemic fibrosis, particularly below an eGFR of roughly 30 mL/min/1.73m2.",
+    "domain": "diagnostics",
+    "id": 47
+  },
+  {
+    "chapter": 3,
+    "front": "What is left ventricular foreshortening in apical echocardiographic views, and what error does it cause?",
+    "back": "Imaging obliquely through the ventricle rather than through its true long axis, which artificially underestimates chamber volume and overestimates ejection fraction.",
+    "domain": "diagnostics",
+    "id": 48
+  },
+  {
+    "chapter": 3,
+    "front": "Why must the Doppler beam be aligned within about 20 degrees of blood flow direction for an accurate velocity measurement?",
+    "back": "Angle misalignment systematically underestimates the true velocity and therefore the calculated gradient across a valve.",
+    "domain": "diagnostics",
+    "id": 49
+  },
+  {
+    "chapter": 3,
+    "front": "What clinical scenario is left ventricular contrast opacification most useful for?",
+    "back": "When two or more contiguous myocardial segments are poorly visualized on a non-contrast study, improving endocardial border definition and ejection fraction accuracy.",
+    "domain": "diagnostics",
+    "id": 50
+  },
+  {
+    "chapter": 3,
+    "front": "Why does cardiac MRI typically require a heart rate below roughly 65 to 70 beats per minute and multiple breath-holds?",
+    "back": "Electrocardiographic gating and motion-free acquisition require a controlled, cooperative patient to obtain diagnostic-quality images over a lengthy protocol.",
+    "domain": "diagnostics",
+    "id": 51
+  },
+  {
+    "chapter": 4,
+    "front": "What test is the required reference standard for diagnosing and hemodynamically classifying pulmonary hypertension?",
+    "back": "Right heart catheterization, which directly measures pulmonary artery pressure and pulmonary capillary wedge pressure.",
+    "domain": "diagnostics",
+    "id": 52
+  },
+  {
+    "chapter": 4,
+    "front": "Why has radial access become the preferred default for cardiac catheterization over femoral access?",
+    "back": "It is associated with substantially fewer access-site bleeding and vascular complications given its superficial location and smaller nearby vessels.",
+    "domain": "diagnostics",
+    "id": 53
+  },
+  {
+    "chapter": 4,
+    "front": "What percent diameter stenosis threshold is used for left main coronary artery lesions, and why is it lower than for other vessels?",
+    "back": "Roughly 50 percent, lower than the typical 70 percent threshold, because a critical narrowing here places a much larger myocardial territory at risk.",
+    "domain": "diagnostics",
+    "id": 54
+  },
+  {
+    "chapter": 4,
+    "front": "How is precapillary pulmonary hypertension distinguished from postcapillary pulmonary hypertension hemodynamically?",
+    "back": "Precapillary disease shows an elevated pulmonary artery pressure with a normal wedge pressure and elevated pulmonary vascular resistance; postcapillary disease shows an elevated wedge pressure.",
+    "domain": "diagnostics",
+    "id": 55
+  },
+  {
+    "chapter": 4,
+    "front": "In what two clinical circumstances is the Fick method generally more reliable than thermodilution for cardiac output?",
+    "back": "In low cardiac output states and in the presence of significant tricuspid or pulmonic regurgitation.",
+    "domain": "diagnostics",
+    "id": 56
+  },
+  {
+    "chapter": 4,
+    "front": "What FFR value is generally considered hemodynamically significant, supporting revascularization?",
+    "back": "An FFR of 0.80 or less, measured during maximal pharmacologic hyperemia, typically with adenosine.",
+    "domain": "diagnostics",
+    "id": 57
+  },
+  {
+    "chapter": 4,
+    "front": "What is the validated ischemic threshold for the instantaneous wave-free ratio (iFR)?",
+    "back": "0.89 or less, measured without the need for pharmacologic hyperemia.",
+    "domain": "diagnostics",
+    "id": 58
+  },
+  {
+    "chapter": 4,
+    "front": "How do IVUS and OCT differ in resolution and tissue penetration?",
+    "back": "OCT has much higher spatial resolution (10 to 20 micrometers) but shallower tissue penetration than IVUS (roughly 100 to 150 micrometers resolution, deeper penetration).",
+    "domain": "diagnostics",
+    "id": 59
+  },
+  {
+    "chapter": 4,
+    "front": "Why can well-developed coronary collateral vessels preserve myocardial viability despite a chronic total occlusion?",
+    "back": "They supply the distal territory of the occluded vessel from an adjacent, patent coronary artery, sustaining perfusion despite the native occlusion.",
+    "domain": "diagnostics",
+    "id": 60
+  },
+  {
+    "chapter": 4,
+    "front": "What complication should be suspected in a patient with flank/back pain and a falling hematocrit after femoral access, without a visible groin hematoma?",
+    "back": "Retroperitoneal hemorrhage, which can accommodate significant blood loss without an externally visible hematoma.",
+    "domain": "diagnostics",
+    "id": 61
+  },
+  {
+    "chapter": 4,
+    "front": "What technology underlies transcatheter aortic valve replacement, and what imaging is essential for pre-procedural planning?",
+    "back": "A collapsible prosthetic valve delivered on a catheter, typically via the femoral artery; cardiac CT is essential for annulus sizing and coronary ostial height assessment.",
+    "domain": "diagnostics",
+    "id": 62
+  },
+  {
+    "chapter": 4,
+    "front": "Why is metformin typically held around the time of contrast administration in patients with reduced kidney function?",
+    "back": "Because of the rare but serious risk of lactic acidosis if acute kidney injury develops after contrast exposure.",
+    "domain": "diagnostics",
+    "id": 63
+  },
+  {
+    "chapter": 4,
+    "front": "What is left ventriculography, and what can it assess during a catheterization procedure?",
+    "back": "Contrast injection directly into the left ventricle, used to calculate ejection fraction, assess regional wall motion, and detect mitral regurgitation by contrast reflux into the left atrium.",
+    "domain": "diagnostics",
+    "id": 64
+  },
+  {
+    "chapter": 4,
+    "front": "What is the role of dual antiplatelet therapy after drug-eluting stent placement?",
+    "back": "It reduces the risk of stent thrombosis while the stent struts become fully endothelialized into the vessel wall over subsequent weeks to months.",
+    "domain": "diagnostics",
+    "id": 65
+  },
+  {
+    "chapter": 4,
+    "front": "What is a patent hemostasis technique, and why is it used after radial access?",
+    "back": "A compression method that maintains some antegrade radial flow during compression, specifically to reduce the risk of subsequent radial artery occlusion.",
+    "domain": "diagnostics",
+    "id": 66
+  },
+  {
+    "chapter": 4,
+    "front": "How does a percutaneous edge-to-edge mitral valve repair device work?",
+    "back": "It approximates the anterior and posterior mitral leaflets with a clip to reduce regurgitant flow, guided by transesophageal echocardiography.",
+    "domain": "diagnostics",
+    "id": 67
+  },
+  {
+    "chapter": 4,
+    "front": "Who performed the first human cardiac catheterization, and how?",
+    "back": "Werner Forssmann in 1929, who passed a urinary catheter through his own antecubital vein into his own right atrium.",
+    "domain": "diagnostics",
+    "id": 68
+  },
+  {
+    "chapter": 5,
+    "front": "What is the earliest recognized step in the development of atherosclerosis?",
+    "back": "Endothelial dysfunction, characterized by reduced nitric oxide bioavailability and a shift toward a pro-inflammatory, pro-thrombotic phenotype.",
+    "domain": "coronary_artery_disease",
+    "id": 69
+  },
+  {
+    "chapter": 5,
+    "front": "What receptor pathway allows macrophages to become foam cells through unregulated cholesterol uptake?",
+    "back": "Scavenger receptors, which take up oxidized LDL without the feedback downregulation that limits the normal LDL receptor pathway.",
+    "domain": "coronary_artery_disease",
+    "id": 70
+  },
+  {
+    "chapter": 5,
+    "front": "What is compensatory positive remodeling, and why does it delay the appearance of an angiographic stenosis?",
+    "back": "Outward expansion of the vessel wall to accommodate growing plaque, preserving lumen diameter until plaque occupies roughly 40 percent or more of vessel cross-sectional area.",
+    "domain": "coronary_artery_disease",
+    "id": 71
+  },
+  {
+    "chapter": 5,
+    "front": "What are the defining structural features of a vulnerable thin-cap fibroatheroma?",
+    "back": "A thin fibrous cap, a large necrotic lipid core, dense macrophage infiltration, and relatively few collagen-synthesizing smooth muscle cells.",
+    "domain": "coronary_artery_disease",
+    "id": 72
+  },
+  {
+    "chapter": 5,
+    "front": "Why does plaque vulnerability correlate only weakly with angiographic stenosis severity?",
+    "back": "Positive remodeling can keep a vulnerable plaque's luminal narrowing mild despite a large underlying necrotic core, so vulnerability and visible stenosis are not tightly linked.",
+    "domain": "coronary_artery_disease",
+    "id": 73
+  },
+  {
+    "chapter": 5,
+    "front": "What genetic condition provides strong evidence for a causal, dose-dependent relationship between LDL and atherosclerosis?",
+    "back": "Familial hypercholesterolemia, in which lifelong markedly elevated LDL from birth produces severe, premature atherosclerotic disease.",
+    "domain": "coronary_artery_disease",
+    "id": 74
+  },
+  {
+    "chapter": 5,
+    "front": "What lipid pattern is characteristic of diabetes-associated atherogenic dyslipidemia?",
+    "back": "Elevated triglycerides, low HDL cholesterol, and a predominance of small, dense, more readily oxidized LDL particles.",
+    "domain": "coronary_artery_disease",
+    "id": 75
+  },
+  {
+    "chapter": 5,
+    "front": "What distinguishes plaque erosion from plaque rupture as a mechanism of acute coronary thrombosis?",
+    "back": "Erosion involves superficial endothelial loss over an intact fibrous cap, while rupture involves an actual tear of the cap exposing the necrotic core.",
+    "domain": "coronary_artery_disease",
+    "id": 76
+  },
+  {
+    "chapter": 5,
+    "front": "In which patient populations is plaque erosion disproportionately more common as the cause of acute coronary syndrome?",
+    "back": "Younger patients and women, compared with the classic rupture mechanism more typical of older patients with extensive lipid-rich plaque.",
+    "domain": "coronary_artery_disease",
+    "id": 77
+  },
+  {
+    "chapter": 5,
+    "front": "What did the CANTOS trial demonstrate about targeting inflammation in atherosclerosis?",
+    "back": "Canakinumab, an anti-interleukin-1 beta antibody with no lipid-lowering effect, reduced recurrent cardiovascular events, providing direct proof that targeting inflammation itself reduces events.",
+    "domain": "coronary_artery_disease",
+    "id": 78
+  },
+  {
+    "chapter": 5,
+    "front": "Why is lipoprotein(a) considered both atherogenic and pro-thrombotic?",
+    "back": "It has LDL-like atherogenic properties plus a structural similarity between apolipoprotein(a) and plasminogen that interferes with normal fibrinolysis.",
+    "domain": "coronary_artery_disease",
+    "id": 79
+  },
+  {
+    "chapter": 5,
+    "front": "Why is lipoprotein(a) considered largely unmodifiable by lifestyle change or statins?",
+    "back": "Plasma levels are determined almost entirely by genetics, established by early childhood, and essentially unaffected by most standard lipid-lowering therapies.",
+    "domain": "coronary_artery_disease",
+    "id": 80
+  },
+  {
+    "chapter": 5,
+    "front": "Why does the protective gap in coronary event rates between men and women narrow after menopause?",
+    "back": "Declining endogenous estrogen removes its favorable effects on the lipid profile and endothelial function, and event rates in women approach those of men roughly a decade later in life.",
+    "domain": "coronary_artery_disease",
+    "id": 81
+  },
+  {
+    "chapter": 5,
+    "front": "Name two obstetric or pregnancy-related conditions that mark increased future cardiovascular risk in women.",
+    "back": "A history of preeclampsia and a history of gestational diabetes.",
+    "domain": "coronary_artery_disease",
+    "id": 82
+  },
+  {
+    "chapter": 5,
+    "front": "What did serial intravascular ultrasound studies show about high-intensity statin therapy and plaque volume?",
+    "back": "It demonstrated measurable regression of total atherosclerotic plaque volume, correlating with the achieved LDL cholesterol level.",
+    "domain": "coronary_artery_disease",
+    "id": 83
+  },
+  {
+    "chapter": 5,
+    "front": "Besides reducing plaque volume, how does intensive lipid-lowering therapy alter plaque composition?",
+    "back": "It promotes a more stable phenotype with a thicker fibrous cap, reduced lipid core size, and reduced inflammatory cell content.",
+    "domain": "coronary_artery_disease",
+    "id": 84
+  },
+  {
+    "chapter": 5,
+    "front": "What did the Pathobiological Determinants of Atherosclerosis in Youth study demonstrate?",
+    "back": "Fatty streaks and even more advanced fibrous plaques were already present in the coronary arteries of many adolescents and young adults who died of unrelated trauma.",
+    "domain": "coronary_artery_disease",
+    "id": 85
+  },
+  {
+    "chapter": 6,
+    "front": "What three mechanisms produce myocardial ischemia in stable ischemic heart disease?",
+    "back": "Fixed epicardial stenosis, coronary microvascular dysfunction, and coronary vasospasm; more than one can coexist in the same patient.",
+    "domain": "coronary_artery_disease",
+    "id": 86
+  },
+  {
+    "chapter": 6,
+    "front": "At what approximate percent stenosis does an epicardial coronary lesion typically exhaust the capacity to augment flow during exertion?",
+    "back": "Roughly 70 percent, at which resting flow is preserved but flow reserve for exertional demand is exhausted.",
+    "domain": "coronary_artery_disease",
+    "id": 87
+  },
+  {
+    "chapter": 6,
+    "front": "What population is disproportionately affected by coronary microvascular dysfunction?",
+    "back": "Women, patients with diabetes, and patients with hypertensive left ventricular hypertrophy.",
+    "domain": "coronary_artery_disease",
+    "id": 88
+  },
+  {
+    "chapter": 6,
+    "front": "What are the three classic criteria that define typical angina?",
+    "back": "Substernal discomfort, provocation by exertion or emotional stress, and relief with rest or nitroglycerin within minutes.",
+    "domain": "coronary_artery_disease",
+    "id": 89
+  },
+  {
+    "chapter": 6,
+    "front": "Why is response to nitroglycerin an unreliable way to distinguish cardiac from esophageal chest pain?",
+    "back": "Nitrates relax esophageal smooth muscle as well as coronary vasculature, so gastroesophageal reflux pain can also improve with nitroglycerin.",
+    "domain": "coronary_artery_disease",
+    "id": 90
+  },
+  {
+    "chapter": 6,
+    "front": "What coronary artery calcium score carries a very high negative predictive value for obstructive coronary disease?",
+    "back": "A calcium score of zero.",
+    "domain": "coronary_artery_disease",
+    "id": 91
+  },
+  {
+    "chapter": 6,
+    "front": "Which stress imaging modality pairs with vasodilator agents like adenosine or regadenoson, and why not with echocardiography?",
+    "back": "Nuclear perfusion imaging; vasodilators maximally dilate normal coronaries but do not reliably provoke a wall motion abnormality, so they cannot be paired meaningfully with echocardiography.",
+    "domain": "coronary_artery_disease",
+    "id": 92
+  },
+  {
+    "chapter": 6,
+    "front": "What resting electrocardiographic findings make standard exercise ECG testing uninterpretable for ischemia?",
+    "back": "Left bundle branch block, a paced rhythm, resting ST depression of 1 millimeter or more, preexcitation, or digoxin effect.",
+    "domain": "coronary_artery_disease",
+    "id": 93
+  },
+  {
+    "chapter": 6,
+    "front": "What fractional flow reserve value is generally considered hemodynamically significant and supports revascularization?",
+    "back": "A value of 0.80 or less.",
+    "domain": "coronary_artery_disease",
+    "id": 94
+  },
+  {
+    "chapter": 6,
+    "front": "What LDL cholesterol target is generally used for very high-risk patients with established atherosclerotic disease?",
+    "back": "Below 70 milligrams per deciliter.",
+    "domain": "coronary_artery_disease",
+    "id": 95
+  },
+  {
+    "chapter": 6,
+    "front": "To what resting heart rate are beta blockers typically titrated for anti-anginal therapy?",
+    "back": "Roughly 55 to 60 beats per minute, as tolerated.",
+    "domain": "coronary_artery_disease",
+    "id": 96
+  },
+  {
+    "chapter": 6,
+    "front": "Why are calcium channel blockers preferred over beta blockers for vasospastic angina?",
+    "back": "Beta blockade can leave alpha-adrenergic vasoconstriction unopposed and theoretically worsen spasm, while calcium channel blockers directly relax the coronary smooth muscle responsible for spasm.",
+    "domain": "coronary_artery_disease",
+    "id": 97
+  },
+  {
+    "chapter": 6,
+    "front": "How does ranolazine reduce angina, and what is a key monitoring consideration?",
+    "back": "It inhibits the late sodium current in ischemic myocytes without significantly affecting heart rate or blood pressure, but it modestly prolongs the QT interval.",
+    "domain": "coronary_artery_disease",
+    "id": 98
+  },
+  {
+    "chapter": 6,
+    "front": "What did the ISCHEMIA and COURAGE trials establish about initial invasive strategy in stable ischemic heart disease with preserved ejection fraction?",
+    "back": "An initial invasive strategy does not reduce death or myocardial infarction compared with optimal medical therapy alone, even with moderate to severe ischemia.",
+    "domain": "coronary_artery_disease",
+    "id": 99
+  },
+  {
+    "chapter": 6,
+    "front": "What degree of left main coronary stenosis is associated with a survival benefit from revascularization over medical therapy?",
+    "back": "Left main stenosis of 50 percent or greater.",
+    "domain": "coronary_artery_disease",
+    "id": 100
+  },
+  {
+    "chapter": 6,
+    "front": "What is an anginal equivalent, and in whom are they more common?",
+    "back": "A symptom such as dyspnea, fatigue, or nausea substituting for classic chest pressure as the sole manifestation of ischemia; more common in women, older adults, and patients with diabetes.",
+    "domain": "coronary_artery_disease",
+    "id": 101
+  },
+  {
+    "chapter": 6,
+    "front": "Why must beta blocker therapy be tapered rather than stopped abruptly?",
+    "back": "Abrupt discontinuation can cause a rebound phenomenon with recurrent angina, tachycardia, or hypertension from upregulated beta receptor sensitivity during chronic blockade.",
+    "domain": "coronary_artery_disease",
+    "id": 102
+  },
+  {
+    "chapter": 7,
+    "front": "What single laboratory finding distinguishes unstable angina from NSTEMI?",
+    "back": "The presence of a troponin rise above the assay's upper reference limit in NSTEMI, which is absent in unstable angina.",
+    "domain": "coronary_artery_disease",
+    "id": 103
+  },
+  {
+    "chapter": 7,
+    "front": "What is the key difference between Type 1 and Type 2 myocardial infarction?",
+    "back": "Type 1 arises from spontaneous plaque rupture with thrombus; Type 2 arises from supply-demand mismatch without acute plaque disruption, from causes like anemia, sepsis, or tachyarrhythmia.",
+    "domain": "coronary_artery_disease",
+    "id": 104
+  },
+  {
+    "chapter": 7,
+    "front": "Roughly when does high-sensitivity troponin begin to rise, peak, and how long can it remain elevated after myocardial injury?",
+    "back": "Rises within two to three hours, peaks at twelve to twenty-four hours, and can remain detectable for one to two weeks.",
+    "domain": "coronary_artery_disease",
+    "id": 105
+  },
+  {
+    "chapter": 7,
+    "front": "Why is the delta between serial troponin values more informative than a single absolute value?",
+    "back": "A rising or falling pattern supports an acute process, while a persistently elevated but stable value suggests chronic elevation from conditions like renal impairment or heart failure.",
+    "domain": "coronary_artery_disease",
+    "id": 106
+  },
+  {
+    "chapter": 7,
+    "front": "What five elements make up the HEART score?",
+    "back": "History, Electrocardiogram, Age, Risk factors, and Troponin, each scored zero to two points.",
+    "domain": "coronary_artery_disease",
+    "id": 107
+  },
+  {
+    "chapter": 7,
+    "front": "What population is the HEART score primarily designed to triage?",
+    "back": "Patients with undifferentiated chest pain at initial emergency department presentation, before a specific ACS diagnosis is confirmed.",
+    "domain": "coronary_artery_disease",
+    "id": 108
+  },
+  {
+    "chapter": 7,
+    "front": "What variables does the GRACE score incorporate that the TIMI score does not?",
+    "back": "Heart rate, systolic blood pressure, serum creatinine, Killip classification, and cardiac arrest at presentation.",
+    "domain": "coronary_artery_disease",
+    "id": 109
+  },
+  {
+    "chapter": 7,
+    "front": "Why is prasugrel generally avoided before angiography when bypass surgery remains a possibility?",
+    "back": "Its potent, sustained platelet inhibition increases perioperative bleeding risk if surgery is needed without an adequate washout period.",
+    "domain": "coronary_artery_disease",
+    "id": 110
+  },
+  {
+    "chapter": 7,
+    "front": "What is the standard duration of dual antiplatelet therapy after an acute coronary syndrome?",
+    "back": "Twelve months, regardless of whether managed medically or with PCI, absent a modifying high bleeding or high ischemic risk factor.",
+    "domain": "coronary_artery_disease",
+    "id": 111
+  },
+  {
+    "chapter": 7,
+    "front": "Why does fondaparinux require supplemental unfractionated heparin during PCI?",
+    "back": "Fondaparinux alone during PCI has been associated with an increased risk of catheter-related thrombus.",
+    "domain": "coronary_artery_disease",
+    "id": 112
+  },
+  {
+    "chapter": 7,
+    "front": "What clinical features mandate an immediate invasive strategy within two hours in NSTEMI/unstable angina?",
+    "back": "Hemodynamic instability or shock, refractory angina despite maximal therapy, life-threatening arrhythmias, or a mechanical complication.",
+    "domain": "coronary_artery_disease",
+    "id": 113
+  },
+  {
+    "chapter": 7,
+    "front": "What echocardiographic pattern distinguishes Takotsubo cardiomyopathy from a typical coronary territory infarction?",
+    "back": "Apical akinesis with basal hyperkinesis, a pattern that does not correspond to a single coronary territory, with no obstructive disease on angiography.",
+    "domain": "coronary_artery_disease",
+    "id": 114
+  },
+  {
+    "chapter": 7,
+    "front": "Why is percutaneous intervention generally avoided in stable spontaneous coronary artery dissection?",
+    "back": "It can worsen the dissection by extending the false lumen; a conservative strategy allowing spontaneous healing is generally preferred in stable presentations.",
+    "domain": "coronary_artery_disease",
+    "id": 115
+  },
+  {
+    "chapter": 7,
+    "front": "What vascular access site is generally preferred to reduce bleeding risk during catheterization in ACS?",
+    "back": "Radial access, which is associated with reduced access-site bleeding and vascular complications compared with femoral access.",
+    "domain": "coronary_artery_disease",
+    "id": 116
+  },
+  {
+    "chapter": 7,
+    "front": "In patients with reduced ejection fraction after NSTEMI, which secondary prevention drug class provides a mortality benefit beyond beta blockers and ACE inhibitors?",
+    "back": "Mineralocorticoid receptor antagonists, such as eplerenone, in patients with an ejection fraction of 40 percent or less plus diabetes or symptomatic heart failure.",
+    "domain": "coronary_artery_disease",
+    "id": 117
+  },
+  {
+    "chapter": 7,
+    "front": "Why is aspirin given as a chewed loading dose rather than swallowed whole in suspected acute coronary syndrome?",
+    "back": "Chewing accelerates buccal and gastric absorption, producing more rapid platelet inhibition than swallowing an intact tablet.",
+    "domain": "coronary_artery_disease",
+    "id": 118
+  },
+  {
+    "chapter": 7,
+    "front": "What laboratory and imaging findings besides troponin help assess a patient with suspected ACS at initial presentation?",
+    "back": "A chest radiograph for pulmonary edema or mediastinal widening, echocardiography for wall motion abnormalities, a complete blood count, renal function, and a lipid panel drawn within 24 hours.",
+    "domain": "coronary_artery_disease",
+    "id": 119
+  },
+  {
+    "chapter": 8,
+    "front": "What thrombus characteristic distinguishes STEMI from unstable angina/NSTEMI at the plaque level?",
+    "back": "STEMI results from a fully occlusive, sustained thrombus producing transmural ischemia, versus the partial or intermittent occlusion typical of unstable angina/NSTEMI.",
+    "domain": "coronary_artery_disease",
+    "id": 120
+  },
+  {
+    "chapter": 8,
+    "front": "What ST-elevation threshold applies in most leads for STEMI diagnosis, and how does it differ in V2/V3?",
+    "back": "At least 1 millimeter in most leads; in V2/V3 the threshold is higher (2mm in men 40+, 2.5mm in men under 40, 1.5mm in women) due to the early repolarization variant.",
+    "domain": "coronary_artery_disease",
+    "id": 121
+  },
+  {
+    "chapter": 8,
+    "front": "Which coronary territory and ECG leads localize an anterior STEMI?",
+    "back": "Left anterior descending artery territory, shown by ST elevation in leads V1 through V4, sometimes extending to V5 and V6.",
+    "domain": "coronary_artery_disease",
+    "id": 122
+  },
+  {
+    "chapter": 8,
+    "front": "Which right-sided lead is used to detect right ventricular infarction, and what finding is diagnostic?",
+    "back": "Lead V4R; ST-segment elevation of at least 1 millimeter is sensitive and specific for right ventricular infarction.",
+    "domain": "coronary_artery_disease",
+    "id": 123
+  },
+  {
+    "chapter": 8,
+    "front": "How does posterior wall infarction appear on the standard twelve-lead ECG, and what confirms it?",
+    "back": "ST depression and tall, broad R waves in V1 through V3 as a mirror-image pattern; posterior leads V7 through V9 with 0.5mm elevation confirm the diagnosis.",
+    "domain": "coronary_artery_disease",
+    "id": 124
+  },
+  {
+    "chapter": 8,
+    "front": "What are the door-to-balloon and door-to-needle time targets for STEMI reperfusion?",
+    "back": "Door-to-balloon of 90 minutes or less (120 minutes if transfer is needed); door-to-needle of 30 minutes or less for fibrinolysis.",
+    "domain": "coronary_artery_disease",
+    "id": 125
+  },
+  {
+    "chapter": 8,
+    "front": "Within what window after symptom onset is fibrinolytic therapy most effective?",
+    "back": "The first two to three hours, with diminishing but still meaningful benefit up to twelve hours.",
+    "domain": "coronary_artery_disease",
+    "id": 126
+  },
+  {
+    "chapter": 8,
+    "front": "Name three absolute contraindications to fibrinolytic therapy.",
+    "back": "Any prior intracranial hemorrhage, suspected aortic dissection, and active bleeding (also: ischemic stroke within 3 months, known cerebrovascular lesion or malignant intracranial neoplasm).",
+    "domain": "coronary_artery_disease",
+    "id": 127
+  },
+  {
+    "chapter": 8,
+    "front": "Why is clopidogrel preferred over ticagrelor or prasugrel as an adjunct to fibrinolytic therapy?",
+    "back": "Clopidogrel has a well-established safety and efficacy evidence base specifically in the fibrinolytic population, while the more potent agents carry theoretical bleeding concern when combined with fibrinolysis.",
+    "domain": "coronary_artery_disease",
+    "id": 128
+  },
+  {
+    "chapter": 8,
+    "front": "What is the correct hemodynamic management principle for hypotension due to right ventricular infarction?",
+    "back": "Preload augmentation with intravenous fluid boluses; avoid nitrates, diuretics, and morphine, which reduce preload and can precipitate refractory hypotension.",
+    "domain": "coronary_artery_disease",
+    "id": 129
+  },
+  {
+    "chapter": 8,
+    "front": "Why is intravenous beta blockade avoided acutely in STEMI patients with signs of heart failure or shock?",
+    "back": "Its negative inotropic and chronotropic effects can worsen a low-output or shock state; trial data suggest harm from aggressive early IV beta blockade in these patients.",
+    "domain": "coronary_artery_disease",
+    "id": 130
+  },
+  {
+    "chapter": 8,
+    "front": "In cardiogenic shock complicating STEMI with multivessel disease, what is the preferred initial revascularization approach?",
+    "back": "Treat only the culprit lesion during the index procedure and defer non-culprit lesions to a later staged procedure once stabilized.",
+    "domain": "coronary_artery_disease",
+    "id": 131
+  },
+  {
+    "chapter": 8,
+    "front": "What vascular access site is preferred for primary PCI, and why?",
+    "back": "Radial access, because it substantially lowers access-site bleeding and vascular complications without compromising procedural success.",
+    "domain": "coronary_artery_disease",
+    "id": 132
+  },
+  {
+    "chapter": 8,
+    "front": "Why is routine aspiration thrombectomy no longer recommended during primary PCI?",
+    "back": "Trial data showed no overall outcome benefit and a signal of increased stroke risk with routine use.",
+    "domain": "coronary_artery_disease",
+    "id": 133
+  },
+  {
+    "chapter": 8,
+    "front": "What ECG pattern besides ST elevation can indicate acute ischemia in a patient with left bundle branch block or a paced rhythm?",
+    "back": "The modified Sgarbossa criteria, which identify concordant ST elevation or excessively discordant ST changes relative to the QRS complex.",
+    "domain": "coronary_artery_disease",
+    "id": 134
+  },
+  {
+    "chapter": 8,
+    "front": "Why does proximal left anterior descending artery occlusion carry a particularly high risk of conduction system involvement?",
+    "back": "Occlusion proximal to the first septal perforator branch can compromise the blood supply to the proximal conduction system, predisposing to heart block and bundle branch block.",
+    "domain": "coronary_artery_disease",
+    "id": 135
+  },
+  {
+    "chapter": 8,
+    "front": "What system-level intervention shortens total ischemic time by allowing STEMI diagnosis before hospital arrival?",
+    "back": "Prehospital electrocardiogram acquisition and transmission by emergency medical services, with direct catheterization laboratory activation from the field.",
+    "domain": "coronary_artery_disease",
+    "id": 136
+  },
+  {
+    "chapter": 9,
+    "front": "What underlying process makes myocardial tissue most prone to mechanical rupture in the days after infarction?",
+    "back": "Necrotic myocardium loses tensile strength before mature fibrous scar forms, creating a window of structural weakness in the earliest days after infarction.",
+    "domain": "coronary_artery_disease",
+    "id": 137
+  },
+  {
+    "chapter": 9,
+    "front": "What is the typical timing and location pattern for ventricular septal rupture after anterior versus inferior infarction?",
+    "back": "Typically days three to five; anterior infarction produces discrete apical defects, while inferior infarction produces more complex basal defects with worse prognosis.",
+    "domain": "coronary_artery_disease",
+    "id": 138
+  },
+  {
+    "chapter": 9,
+    "front": "What distinguishes subacute from acute free wall rupture?",
+    "back": "Subacute rupture is initially contained by adherent pericardium or thrombus, producing a more gradual presentation over hours rather than instantaneous collapse.",
+    "domain": "coronary_artery_disease",
+    "id": 139
+  },
+  {
+    "chapter": 9,
+    "front": "Why can the murmur of acute papillary muscle rupture be soft or absent despite severe mitral regurgitation?",
+    "back": "The sudden regurgitant volume rapidly equalizes left atrial and left ventricular pressure in a left atrium that has not had time to dilate, shortening or attenuating the murmur.",
+    "domain": "coronary_artery_disease",
+    "id": 140
+  },
+  {
+    "chapter": 9,
+    "front": "What structural feature most reliably distinguishes a pseudoaneurysm from a true ventricular aneurysm on imaging?",
+    "back": "A pseudoaneurysm has a narrow neck connecting it to the ventricular cavity, versus the wide-mouthed communication typical of a true aneurysm.",
+    "domain": "coronary_artery_disease",
+    "id": 141
+  },
+  {
+    "chapter": 9,
+    "front": "Why does a pseudoaneurysm carry higher rupture risk than a true aneurysm?",
+    "back": "Its wall consists only of thrombus and adherent pericardium, unlike a true aneurysm, which retains intact, though thinned, native myocardial wall layers.",
+    "domain": "coronary_artery_disease",
+    "id": 142
+  },
+  {
+    "chapter": 9,
+    "front": "What is the correct management approach for dynamic LVOT obstruction after anterior infarction with apical ballooning?",
+    "back": "Cautious volume administration to increase cavity size, avoiding inotropes and vasodilators, which would worsen the obstruction.",
+    "domain": "coronary_artery_disease",
+    "id": 143
+  },
+  {
+    "chapter": 9,
+    "front": "What arrhythmic mechanism explains sustained monomorphic ventricular tachycardia arising from the infarct border zone?",
+    "back": "Reentry circuits forming at the interface between viable and necrotic or fibrotic myocardium.",
+    "domain": "coronary_artery_disease",
+    "id": 144
+  },
+  {
+    "chapter": 9,
+    "front": "How does conduction block differ between inferior and anterior infarction in terms of level and prognosis?",
+    "back": "Inferior infarction block is often nodal, narrow, and often resolves spontaneously; anterior infarction block is more distal (infranodal), wider, less stable, and more often needs a permanent pacemaker.",
+    "domain": "coronary_artery_disease",
+    "id": 145
+  },
+  {
+    "chapter": 9,
+    "front": "What is the earliest window for primary ventricular fibrillation after infarction, and does it require long-term defibrillator therapy?",
+    "back": "Within the first 48 hours; it does not by itself indicate need for long-term defibrillator therapy since it reflects transient ischemia rather than a fixed substrate.",
+    "domain": "coronary_artery_disease",
+    "id": 146
+  },
+  {
+    "chapter": 9,
+    "front": "What timing distinguishes early post-infarction pericarditis from Dressler syndrome?",
+    "back": "Early pericarditis occurs within the first one to three days from direct local inflammation; Dressler syndrome occurs one to eight weeks later from an immune-mediated mechanism.",
+    "domain": "coronary_artery_disease",
+    "id": 147
+  },
+  {
+    "chapter": 9,
+    "front": "Why are NSAIDs and glucocorticoids generally avoided in early post-infarction pericarditis but acceptable in Dressler syndrome?",
+    "back": "They may impair myocardial healing and scar formation in the early window, a concern less relevant by the time Dressler syndrome presents weeks later.",
+    "domain": "coronary_artery_disease",
+    "id": 148
+  },
+  {
+    "chapter": 9,
+    "front": "What is myocardial stunning, and why does it matter for defibrillator timing?",
+    "back": "Temporarily reduced contractility in reperfused but not infarcted myocardium that can recover over days to weeks; ejection fraction reassessment for defibrillator candidacy is delayed to at least 40 days to avoid underestimating recovered function.",
+    "domain": "coronary_artery_disease",
+    "id": 149
+  },
+  {
+    "chapter": 9,
+    "front": "Why does rest angina occurring during the index hospitalization after MI warrant urgent angiography rather than escalated medical therapy alone?",
+    "back": "It is a high-risk feature suggesting an actively thrombosing, unstable lesion.",
+    "domain": "coronary_artery_disease",
+    "id": 150
+  },
+  {
+    "chapter": 9,
+    "front": "What hemodynamic maneuver besides fluid administration can temporize a patient with acute severe mitral regurgitation from papillary muscle rupture before surgery?",
+    "back": "Afterload reduction with intravenous vasodilators to reduce the regurgitant fraction, and intra-aortic balloon counterpulsation to reduce afterload and augment coronary perfusion.",
+    "domain": "coronary_artery_disease",
+    "id": 151
+  },
+  {
+    "chapter": 9,
+    "front": "What is the Killip classification used for, and what does a higher class correlate with?",
+    "back": "A bedside clinical stratification of heart failure severity at MI presentation, from class I (no failure) to class IV (cardiogenic shock); higher class correlates with worse short and long-term mortality.",
+    "domain": "coronary_artery_disease",
+    "id": 152
+  },
+  {
+    "chapter": 9,
+    "front": "What noninvasive testing can distinguish stunned but viable myocardium from irreversibly infarcted tissue?",
+    "back": "Viability imaging such as dobutamine stress echocardiography, or nuclear and magnetic resonance techniques assessing metabolic activity or the absence of extensive transmural scar.",
+    "domain": "coronary_artery_disease",
+    "id": 153
+  },
+  {
+    "chapter": 10,
+    "front": "What are the two main risks of balloon angioplasty performed alone, without a stent?",
+    "back": "Elastic recoil, in which the vessel partially renarrows after balloon deflation, and vessel dissection at the treatment site.",
+    "domain": "coronary_artery_disease",
+    "id": 154
+  },
+  {
+    "chapter": 10,
+    "front": "What is neointimal hyperplasia, and what timeframe does it typically manifest in after bare metal stent implantation?",
+    "back": "An exuberant proliferative healing response of smooth muscle cells and matrix within the stented segment, typically manifesting within six to twelve months.",
+    "domain": "coronary_artery_disease",
+    "id": 155
+  },
+  {
+    "chapter": 10,
+    "front": "How do drug-eluting stents reduce restenosis compared with bare metal stents?",
+    "back": "They release an antiproliferative drug, such as a limus-family agent, from a polymer coating that inhibits the vascular smooth muscle proliferation responsible for restenosis.",
+    "domain": "coronary_artery_disease",
+    "id": 156
+  },
+  {
+    "chapter": 10,
+    "front": "How does the clinical presentation of stent thrombosis differ from that of restenosis?",
+    "back": "Stent thrombosis presents as an abrupt, complete occlusion causing STEMI or sudden death, while restenosis presents as gradual, progressive symptom recurrence.",
+    "domain": "coronary_artery_disease",
+    "id": 157
+  },
+  {
+    "chapter": 10,
+    "front": "What is the standard default dual antiplatelet therapy duration for elective PCI in stable disease versus for acute coronary syndrome?",
+    "back": "Approximately six months for elective stable disease, versus approximately twelve months for acute coronary syndrome.",
+    "domain": "coronary_artery_disease",
+    "id": 158
+  },
+  {
+    "chapter": 10,
+    "front": "Why is the left internal thoracic artery the preferred graft conduit to the left anterior descending artery?",
+    "back": "It has demonstrated superior long-term patency and is associated with improved long-term survival compared with saphenous vein grafts.",
+    "domain": "coronary_artery_disease",
+    "id": 159
+  },
+  {
+    "chapter": 10,
+    "front": "In which specific patient population has CABG shown a specific survival advantage over PCI for extensive multivessel disease?",
+    "back": "Patients with diabetes mellitus and extensive multivessel disease.",
+    "domain": "coronary_artery_disease",
+    "id": 160
+  },
+  {
+    "chapter": 10,
+    "front": "How does increasing anatomic complexity score generally affect the relative outcomes of PCI versus CABG?",
+    "back": "Higher anatomic complexity is associated with less favorable outcomes with a percutaneous approach relative to surgery, including higher repeat revascularization rates.",
+    "domain": "coronary_artery_disease",
+    "id": 161
+  },
+  {
+    "chapter": 10,
+    "front": "What advantage does intravascular imaging offer over angiography alone during stent placement?",
+    "back": "It directly visualizes plaque morphology, vessel dimensions, and stent apposition and expansion from within the vessel, which angiography's two-dimensional silhouette cannot reliably show.",
+    "domain": "coronary_artery_disease",
+    "id": 162
+  },
+  {
+    "chapter": 10,
+    "front": "What is a chronic total occlusion, and why do these lesions require specialized technique?",
+    "back": "A coronary segment completely occluded for at least three months; recanalization requires specialized antegrade or retrograde wire-crossing strategies and carries higher procedural complexity and complication risk.",
+    "domain": "coronary_artery_disease",
+    "id": 163
+  },
+  {
+    "chapter": 10,
+    "front": "What treatment is generally preferred for focal in-stent restenosis, and why?",
+    "back": "A drug-coated balloon, because it delivers an antiproliferative agent without adding another layer of stent metal within the vessel.",
+    "domain": "coronary_artery_disease",
+    "id": 164
+  },
+  {
+    "chapter": 10,
+    "front": "What is the purpose of a heart team approach for complex multivessel or left main disease?",
+    "back": "It brings interventional cardiology and cardiac surgery together to collaboratively weigh anatomic complexity, clinical risk, and patient preference before choosing a revascularization strategy.",
+    "domain": "coronary_artery_disease",
+    "id": 165
+  },
+  {
+    "chapter": 10,
+    "front": "What is the general approach to non-cardiac surgery for a patient with a recently placed coronary stent when surgery cannot be delayed?",
+    "back": "A multidisciplinary discussion weighing bleeding versus thrombotic risk, generally continuing aspirin through surgery when feasible and holding the P2Y12 inhibitor for the shortest period possible.",
+    "domain": "coronary_artery_disease",
+    "id": 166
+  },
+  {
+    "chapter": 10,
+    "front": "Which vascular access complication is more frequent with femoral than with radial access during PCI?",
+    "back": "Access-site bleeding and hematoma formation.",
+    "domain": "coronary_artery_disease",
+    "id": 167
+  },
+  {
+    "chapter": 10,
+    "front": "What did comparative outcomes data show for on-pump versus off-pump coronary artery bypass grafting?",
+    "back": "Broadly similar long-term outcomes in most analyses, with the choice often reflecting surgeon experience and patient anatomy rather than a demonstrated superiority of one technique.",
+    "domain": "coronary_artery_disease",
+    "id": 168
+  },
+  {
+    "chapter": 10,
+    "front": "What strategies help reduce contrast-associated acute kidney injury during coronary angiography or PCI?",
+    "back": "Using the lowest contrast volume consistent with adequate information, favoring isosmolar or low-osmolar agents, and ensuring adequate periprocedural hydration in at-risk patients.",
+    "domain": "coronary_artery_disease",
+    "id": 169
+  },
+  {
+    "chapter": 10,
+    "front": "Why do women undergoing PCI historically show somewhat higher rates of vascular access complications?",
+    "back": "Smaller average vessel caliber and a higher prevalence of comorbidities such as chronic kidney disease and diabetes at the time of the procedure.",
+    "domain": "coronary_artery_disease",
+    "id": 170
+  },
+  {
+    "chapter": 11,
+    "front": "What ejection fraction cutoff defines HFrEF?",
+    "back": "A left ventricular ejection fraction of 40 percent or less defines heart failure with reduced ejection fraction.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 171
+  },
+  {
+    "chapter": 11,
+    "front": "What natriuretic peptide level makes acute decompensated heart failure unlikely?",
+    "back": "A BNP below roughly 100 pg/mL or an NT-proBNP below roughly 300 pg/mL makes decompensated heart failure unlikely, though obesity, renal dysfunction, and atrial fibrillation can shift these values.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 172
+  },
+  {
+    "chapter": 11,
+    "front": "What hormone does angiotensin II stimulate release of from the adrenal cortex?",
+    "back": "Angiotensin II stimulates aldosterone release, which promotes sodium and water retention and myocardial fibrosis.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 173
+  },
+  {
+    "chapter": 11,
+    "front": "Why is chronic sympathetic activation harmful in heart failure despite short-term benefit?",
+    "back": "Chronic catecholamine exposure is directly toxic to myocytes, promotes arrhythmia, downregulates beta-1 receptors, and increases myocardial oxygen demand.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 174
+  },
+  {
+    "chapter": 11,
+    "front": "What enzyme degrades natriuretic peptides, and what drug class targets it?",
+    "back": "Neprilysin degrades natriuretic peptides; angiotensin receptor-neprilysin inhibitors such as sacubitril-valsartan block this enzyme while also blocking the angiotensin receptor.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 175
+  },
+  {
+    "chapter": 11,
+    "front": "What distinguishes NYHA functional class from ACC/AHA stage?",
+    "back": "NYHA class describes current symptom burden and can improve with treatment, while ACC/AHA stage reflects structural disease progression and does not regress.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 176
+  },
+  {
+    "chapter": 11,
+    "front": "Name the three beta-blockers proven to reduce mortality in HFrEF.",
+    "back": "Carvedilol, bisoprolol, and metoprolol succinate (the extended-release formulation) have demonstrated a mortality benefit in HFrEF.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 177
+  },
+  {
+    "chapter": 11,
+    "front": "How long a washout is needed when switching from an ACE inhibitor to sacubitril-valsartan?",
+    "back": "A washout of at least 36 hours is required to reduce the risk of bradykinin-mediated angioedema.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 178
+  },
+  {
+    "chapter": 11,
+    "front": "What is the most common side effect of spironolactone that eplerenone avoids?",
+    "back": "Painful gynecomastia, because spironolactone has affinity for androgen and progesterone receptors while eplerenone is more selective for the mineralocorticoid receptor.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 179
+  },
+  {
+    "chapter": 11,
+    "front": "What is the proposed mechanism by which SGLT2 inhibitors benefit heart failure independent of glucose control?",
+    "back": "Natriuresis, favorable cardiac metabolic effects, and reductions in cardiac preload and afterload.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 180
+  },
+  {
+    "chapter": 11,
+    "front": "What ejection fraction and QRS criteria most strongly favor CRT benefit?",
+    "back": "An ejection fraction of 35 percent or less with a left bundle branch block pattern and a QRS duration of 150 milliseconds or greater.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 181
+  },
+  {
+    "chapter": 11,
+    "front": "At what QRS duration is CRT generally not recommended?",
+    "back": "CRT is generally not recommended when the QRS duration is under 130 milliseconds, since there is little electrical dyssynchrony to correct.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 182
+  },
+  {
+    "chapter": 11,
+    "front": "What creatinine rise after starting an ACE inhibitor or ARNI is considered expected and acceptable?",
+    "back": "A rise of up to 30 percent from baseline is expected and reflects reduced glomerular filtration pressure rather than intrinsic kidney injury.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 183
+  },
+  {
+    "chapter": 11,
+    "front": "What resting heart rate threshold, in sinus rhythm, supports adding ivabradine?",
+    "back": "A resting heart rate of 70 beats per minute or higher despite maximally tolerated beta-blocker therapy.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 184
+  },
+  {
+    "chapter": 11,
+    "front": "What causes tachycardia-mediated cardiomyopathy, and is it reversible?",
+    "back": "A prolonged, poorly controlled rapid heart rhythm, most often uncontrolled atrial fibrillation; ejection fraction often normalizes substantially once rate or rhythm control is achieved.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 185
+  },
+  {
+    "chapter": 11,
+    "front": "What is the most common genetic cause of dilated cardiomyopathy identified in contemporary cohorts?",
+    "back": "Titin truncating variants.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 186
+  },
+  {
+    "chapter": 11,
+    "front": "What iron study values define iron deficiency in HFrEF, and why does treatment matter?",
+    "back": "A ferritin below 100 ng/mL, or 100 to 300 with transferrin saturation below 20 percent; intravenous iron improves symptoms and reduces hospitalizations, unlike oral iron.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 187
+  },
+  {
+    "chapter": 12,
+    "front": "What are the two components of diastole that can be abnormal in diastolic dysfunction?",
+    "back": "Impaired active myocardial relaxation and increased passive chamber stiffness.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 188
+  },
+  {
+    "chapter": 12,
+    "front": "What tissue Doppler parameter is considered relatively load-independent for assessing myocardial relaxation?",
+    "back": "The e prime velocity at the mitral annulus.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 189
+  },
+  {
+    "chapter": 12,
+    "front": "What ejection fraction defines HFpEF?",
+    "back": "An ejection fraction of 50 percent or greater, with objective evidence of elevated filling pressure or structural abnormality.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 190
+  },
+  {
+    "chapter": 12,
+    "front": "What invasive pulmonary capillary wedge pressure thresholds define HFpEF at rest and with exercise?",
+    "back": "15 mmHg or greater at rest, or 25 mmHg or greater during exercise.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 191
+  },
+  {
+    "chapter": 12,
+    "front": "What ejection fraction range defines heart failure with mildly reduced ejection fraction?",
+    "back": "41 to 49 percent.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 192
+  },
+  {
+    "chapter": 12,
+    "front": "What ECG finding, combined with echocardiographic hypertrophy, should raise suspicion for cardiac amyloidosis?",
+    "back": "Low QRS voltage disproportionate to the degree of wall thickening seen on echocardiography.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 193
+  },
+  {
+    "chapter": 12,
+    "front": "What imaging finding is called annulus paradoxus, and what condition does it favor?",
+    "back": "A preserved or increased medial e prime velocity; it favors constrictive pericarditis over restrictive cardiomyopathy.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 194
+  },
+  {
+    "chapter": 12,
+    "front": "Which drug class is now considered foundational therapy in HFpEF regardless of diabetes status?",
+    "back": "SGLT2 inhibitors, specifically empagliflozin and dapagliflozin.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 195
+  },
+  {
+    "chapter": 12,
+    "front": "In which HFpEF patients is spironolactone most likely to show benefit?",
+    "back": "Patients toward the lower end of the preserved ejection fraction range and those with elevated natriuretic peptide levels.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 196
+  },
+  {
+    "chapter": 12,
+    "front": "What comorbidity is most strongly linked to the cardiometabolic phenotype of HFpEF?",
+    "back": "Obesity, through systemic inflammation, epicardial fat deposition, and increased cardiac filling pressures.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 197
+  },
+  {
+    "chapter": 12,
+    "front": "What defines heart failure with improved ejection fraction?",
+    "back": "Prior HFrEF with ejection fraction improved to greater than 40 percent following guideline-directed medical therapy.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 198
+  },
+  {
+    "chapter": 12,
+    "front": "What happens if guideline-directed medical therapy is withdrawn in heart failure with improved ejection fraction?",
+    "back": "A substantial proportion of patients relapse into left ventricular dysfunction and recurrent heart failure symptoms.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 199
+  },
+  {
+    "chapter": 12,
+    "front": "What bedside maneuver helps distinguish pseudonormal from truly normal mitral inflow?",
+    "back": "The Valsalva maneuver, which unmasks the underlying grade I pattern by transiently reducing preload.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 200
+  },
+  {
+    "chapter": 12,
+    "front": "What drug class newer to weight management has shown benefit in obesity-related HFpEF?",
+    "back": "Glucagon-like peptide-1 receptor agonists, improving symptoms and functional capacity alongside weight loss.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 201
+  },
+  {
+    "chapter": 12,
+    "front": "Why can excessive diuresis be particularly risky in HFpEF?",
+    "back": "The stiff, noncompliant ventricle depends on an elevated baseline filling pressure to maintain stroke volume, so over-diuresis can precipitate hypotension or falling cardiac output.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 202
+  },
+  {
+    "chapter": 12,
+    "front": "What mechanism links diabetes to myocardial stiffening in HFpEF?",
+    "back": "Advanced glycation end-product cross-linking of myocardial collagen directly increases passive chamber stiffness.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 203
+  },
+  {
+    "chapter": 12,
+    "front": "What grade of diastolic dysfunction shows a markedly elevated E to A ratio and shortened deceleration time?",
+    "back": "Grade III, or restrictive filling, associated with the most severely elevated filling pressures.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 204
+  },
+  {
+    "chapter": 13,
+    "front": "What are the two overlapping physiologic problems in acute decompensated heart failure?",
+    "back": "Congestion, from elevated cardiac filling pressures, and hypoperfusion, from inadequate forward cardiac output.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 205
+  },
+  {
+    "chapter": 13,
+    "front": "In the warm/cold, wet/dry framework, which profile is most common in acute decompensated heart failure?",
+    "back": "Warm and wet, congested but adequately perfused.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 206
+  },
+  {
+    "chapter": 13,
+    "front": "What urine sodium level, checked two hours after a diuretic dose, suggests an inadequate natriuretic response?",
+    "back": "A urine sodium below approximately 50 to 70 mEq/L.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 207
+  },
+  {
+    "chapter": 13,
+    "front": "What agent is added for sequential nephron blockade in diuretic-resistant patients?",
+    "back": "A thiazide-type diuretic such as metolazone, acting at the distal convoluted tubule.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 208
+  },
+  {
+    "chapter": 13,
+    "front": "What mechanism distinguishes milrinone from dobutamine?",
+    "back": "Milrinone acts through phosphodiesterase-3 inhibition independent of adrenergic receptors, while dobutamine acts through beta-1 receptor stimulation.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 209
+  },
+  {
+    "chapter": 13,
+    "front": "What are the classic hemodynamic criteria for cardiogenic shock?",
+    "back": "A systolic blood pressure below 90 mmHg, a cardiac index below 2.2 L/min/m2, and a pulmonary capillary wedge pressure above 15 mmHg.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 210
+  },
+  {
+    "chapter": 13,
+    "front": "What finding on right heart catheterization suggests a ventricular septal rupture after myocardial infarction?",
+    "back": "An oxygen saturation step-up between the right atrium and right ventricle, reflecting left-to-right shunting.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 211
+  },
+  {
+    "chapter": 13,
+    "front": "What did the largest contemporary trial show about the intra-aortic balloon pump in infarction-related cardiogenic shock?",
+    "back": "It did not demonstrate a mortality reduction, tempering earlier enthusiasm based on physiologic rationale.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 212
+  },
+  {
+    "chapter": 13,
+    "front": "Where does the Impella device sit, and how does it support the circulation?",
+    "back": "It crosses the aortic valve, drawing blood from the left ventricle and ejecting it into the ascending aorta as a continuous axial-flow pump.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 213
+  },
+  {
+    "chapter": 13,
+    "front": "What complication of venoarterial ECMO may require an additional venting strategy?",
+    "back": "Left ventricular distension from retrograde arterial flow opposing native antegrade flow.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 214
+  },
+  {
+    "chapter": 13,
+    "front": "What vasopressor is generally preferred as first-line in cardiogenic shock over dopamine?",
+    "back": "Norepinephrine, associated with fewer arrhythmic complications than dopamine in shock populations.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 215
+  },
+  {
+    "chapter": 13,
+    "front": "What does a rising creatinine during diuresis in a still-congested patient often reflect?",
+    "back": "Hemoconcentration and reduced renal venous congestion, rather than irreversible nephrotoxic injury, and does not automatically mandate stopping decongestion.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 216
+  },
+  {
+    "chapter": 13,
+    "front": "What SCAI shock stage describes a patient at risk for shock without current hypoperfusion?",
+    "back": "Stage A.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 217
+  },
+  {
+    "chapter": 13,
+    "front": "Why is a serial, trended lactate more useful than a single value in cardiogenic shock?",
+    "back": "A clearing lactate correlates with improving tissue perfusion, while a persistently elevated or rising lactate despite escalating support is ominous.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 218
+  },
+  {
+    "chapter": 13,
+    "front": "What device provides both circulatory support and gas exchange for combined cardiogenic and respiratory failure?",
+    "back": "Venoarterial extracorporeal membrane oxygenation.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 219
+  },
+  {
+    "chapter": 13,
+    "front": "What common precipitant of acute decompensated heart failure reduces oral diuretic bioavailability?",
+    "back": "Intestinal edema in decompensation, meaning a patient's effective home diuretic dose may be lower than the prescribed oral dose suggests.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 220
+  },
+  {
+    "chapter": 13,
+    "front": "What SCAI shock stage describes a patient in extremis, often with ongoing cardiopulmonary resuscitation?",
+    "back": "Stage E.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 221
+  },
+  {
+    "chapter": 14,
+    "front": "What genetic variant carries a distinctly high risk of malignant arrhythmia that may precede ventricular dilation?",
+    "back": "Lamin A/C variants.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 222
+  },
+  {
+    "chapter": 14,
+    "front": "What produces dynamic left ventricular outflow tract obstruction in hypertrophic cardiomyopathy?",
+    "back": "Systolic anterior motion of the mitral valve, pulled toward the hypertrophied septum by a Venturi effect.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 223
+  },
+  {
+    "chapter": 14,
+    "front": "How does the hypertrophic cardiomyopathy murmur respond to standing from a squat, compared to aortic stenosis?",
+    "back": "It increases with standing (reduced preload), the opposite of the fixed aortic stenosis murmur, which decreases.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 224
+  },
+  {
+    "chapter": 14,
+    "front": "What maximal wall thickness is considered a major sudden cardiac death risk factor in hypertrophic cardiomyopathy?",
+    "back": "30 millimeters or greater.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 225
+  },
+  {
+    "chapter": 14,
+    "front": "What abnormal exercise finding is a major HCM sudden death risk factor?",
+    "back": "A failure to rise, or an actual fall, in systolic blood pressure during a symptom-limited exercise test.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 226
+  },
+  {
+    "chapter": 14,
+    "front": "What is the first-line pharmacologic therapy for obstructive hypertrophic cardiomyopathy?",
+    "back": "Nonvasodilating beta-blockers.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 227
+  },
+  {
+    "chapter": 14,
+    "front": "What newer drug class directly reduces active myosin-actin cross-bridges in obstructive HCM?",
+    "back": "Cardiac myosin inhibitors.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 228
+  },
+  {
+    "chapter": 14,
+    "front": "What is the key difference in pacemaker risk between alcohol septal ablation and surgical myectomy?",
+    "back": "Alcohol septal ablation carries a higher risk of requiring a permanent pacemaker because of potential complete heart block.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 229
+  },
+  {
+    "chapter": 14,
+    "front": "What imaging finding suggests transthyretin rather than light chain cardiac amyloidosis?",
+    "back": "Avid myocardial uptake on technetium-labeled bone scintigraphy.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 230
+  },
+  {
+    "chapter": 14,
+    "front": "What extracardiac finding often precedes cardiac amyloidosis diagnosis by years?",
+    "back": "Bilateral carpal tunnel syndrome.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 231
+  },
+  {
+    "chapter": 14,
+    "front": "What classic conduction abnormality should raise suspicion for cardiac sarcoidosis?",
+    "back": "Unexplained high-grade atrioventricular block in a relatively young patient, often with ventricular arrhythmia.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 232
+  },
+  {
+    "chapter": 14,
+    "front": "Is hemochromatosis-associated cardiomyopathy reversible?",
+    "back": "Yes, it has potential reversibility with adequate iron reduction therapy such as phlebotomy or chelation.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 233
+  },
+  {
+    "chapter": 14,
+    "front": "What tissue Doppler finding favors constrictive pericarditis over restrictive cardiomyopathy?",
+    "back": "Preserved or increased medial e prime velocity, called annulus paradoxus.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 234
+  },
+  {
+    "chapter": 14,
+    "front": "What gene family is most commonly mutated in arrhythmogenic right ventricular cardiomyopathy?",
+    "back": "Genes encoding desmosomal proteins that maintain cell-to-cell adhesion in cardiac myocytes.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 235
+  },
+  {
+    "chapter": 14,
+    "front": "What is the inheritance pattern of hypertrophic cardiomyopathy, and what does this mean for first-degree relatives?",
+    "back": "Autosomal dominant with variable penetrance; first-degree relatives have an approximately 50 percent chance of inheriting the same variant.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 236
+  },
+  {
+    "chapter": 14,
+    "front": "What population is most classically affected by apical hypertrophic cardiomyopathy, and what ECG pattern does it produce?",
+    "back": "It is reported with higher relative frequency in some Asian populations and produces deeply negative T-waves across the precordial leads.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 237
+  },
+  {
+    "chapter": 14,
+    "front": "What activity recommendation is distinctive for arrhythmogenic right ventricular cardiomyopathy?",
+    "back": "Restriction of intense endurance exercise, since it accelerates disease progression and arrhythmic risk.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 238
+  },
+  {
+    "chapter": 15,
+    "front": "What is the most common identified cause of myocarditis in contemporary series?",
+    "back": "Viral infection, including parvovirus B19, coxsackievirus, and adenovirus.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 239
+  },
+  {
+    "chapter": 15,
+    "front": "What histologic finding characterizes giant cell myocarditis?",
+    "back": "Multinucleated giant cells, associated with a rapidly progressive course and strong autoimmune association.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 240
+  },
+  {
+    "chapter": 15,
+    "front": "What cancer therapy class causes an immune-mediated myocarditis with high early mortality if untreated?",
+    "back": "Immune checkpoint inhibitors.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 241
+  },
+  {
+    "chapter": 15,
+    "front": "What late gadolinium enhancement pattern on cardiac MRI supports myocarditis over infarction?",
+    "back": "A subepicardial or mid-wall pattern not confined to a single coronary distribution.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 242
+  },
+  {
+    "chapter": 15,
+    "front": "Within what time frame does fulminant myocarditis classically develop after a triggering illness?",
+    "back": "Generally within two weeks.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 243
+  },
+  {
+    "chapter": 15,
+    "front": "Why does fulminant myocarditis often have a better long-term prognosis than nonfulminant myocarditis?",
+    "back": "It reflects an intense but short-lived acute inflammatory insult that can heal with little residual structural abnormality if the patient is supported through the acute crisis.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 244
+  },
+  {
+    "chapter": 15,
+    "front": "Is immunosuppression routinely used in typical viral myocarditis?",
+    "back": "No, but it is critical in giant cell, eosinophilic, and immune checkpoint inhibitor myocarditis.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 245
+  },
+  {
+    "chapter": 15,
+    "front": "How long is activity restriction generally recommended after acute myocarditis?",
+    "back": "Three to six months.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 246
+  },
+  {
+    "chapter": 15,
+    "front": "What does the word takotsubo refer to, and why was it chosen?",
+    "back": "A Japanese octopus trap, whose shape resembles the ballooned apex and narrowed base seen in classic stress cardiomyopathy.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 247
+  },
+  {
+    "chapter": 15,
+    "front": "What population is disproportionately affected by classic apical takotsubo cardiomyopathy?",
+    "back": "Postmenopausal women, following an intense emotional or physical stressor.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 248
+  },
+  {
+    "chapter": 15,
+    "front": "Why should catecholamine-based inotropes be used cautiously in stress cardiomyopathy shock?",
+    "back": "The condition is thought to be driven by catecholamine-mediated myocardial injury, so mechanical support is often favored instead.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 249
+  },
+  {
+    "chapter": 15,
+    "front": "What mechanism underlies anthracycline cardiotoxicity?",
+    "back": "Generation of reactive oxygen species causing direct mitochondrial injury to cardiac myocytes, which have limited regenerative capacity.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 250
+  },
+  {
+    "chapter": 15,
+    "front": "What imaging marker can detect subclinical cardiotoxicity before ejection fraction falls?",
+    "back": "A decline in global longitudinal strain on echocardiography.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 251
+  },
+  {
+    "chapter": 15,
+    "front": "What pre-implant finding substantially worsens outcomes after isolated left ventricular assist device implantation?",
+    "back": "Severe, unaddressed right ventricular dysfunction.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 252
+  },
+  {
+    "chapter": 15,
+    "front": "What acquired hematologic abnormality contributes to bleeding risk in continuous-flow LVAD patients?",
+    "back": "Acquired von Willebrand factor abnormality from the high shear stress of the device.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 253
+  },
+  {
+    "chapter": 15,
+    "front": "Why is cardiac allograft vasculopathy often clinically silent after heart transplantation?",
+    "back": "Because the denervated transplanted heart may not reliably transmit anginal warning symptoms.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 254
+  },
+  {
+    "chapter": 15,
+    "front": "Why must severely elevated pulmonary vascular resistance be addressed before heart transplantation?",
+    "back": "It can lead to acute right heart failure of the newly transplanted, previously unconditioned donor heart.",
+    "domain": "heart_failure_cardiomyopathy",
+    "id": 255
+  },
+  {
+    "chapter": 16,
+    "front": "What are the two ion-transport mechanisms responsible for spontaneous sinus node diastolic depolarization?",
+    "back": "The funny current (If), carried by hyperpolarization-activated cyclic nucleotide-gated channels, and the calcium clock, which releases calcium from the sarcoplasmic reticulum during diastole.",
+    "domain": "arrhythmias",
+    "id": 256
+  },
+  {
+    "chapter": 16,
+    "front": "How is chronotropic incompetence defined on exercise testing?",
+    "back": "Failure to achieve at least 80 percent of the age-predicted maximum heart rate during a symptom-limited exercise test.",
+    "domain": "arrhythmias",
+    "id": 257
+  },
+  {
+    "chapter": 16,
+    "front": "What distinguishes Mobitz type I from Mobitz type II second-degree AV block on ECG?",
+    "back": "Mobitz I shows progressive PR prolongation before a dropped beat and is usually nodal, while Mobitz II shows a constant PR interval with sudden dropped beats and is usually infranodal and more dangerous.",
+    "domain": "arrhythmias",
+    "id": 258
+  },
+  {
+    "chapter": 16,
+    "front": "Why can 2:1 AV block not be classified as type I or type II by PR interval alone?",
+    "back": "There are no two consecutive conducted beats available to compare for progressive PR prolongation, so QRS width and response to maneuvers are used instead to localize the block.",
+    "domain": "arrhythmias",
+    "id": 259
+  },
+  {
+    "chapter": 16,
+    "front": "What ECG rate range and escape rhythm QRS width suggest a junctional versus ventricular escape rhythm in complete heart block?",
+    "back": "A junctional escape rhythm is narrow-complex, typically 40 to 60 beats per minute, while a ventricular escape rhythm is wide-complex and often below 40 beats per minute and less stable.",
+    "domain": "arrhythmias",
+    "id": 260
+  },
+  {
+    "chapter": 16,
+    "front": "What is the classic ECG criterion for right bundle branch block in lead V1?",
+    "back": "An rSR prime pattern, sometimes described as an M-shaped complex, with a QRS duration of 120 milliseconds or greater.",
+    "domain": "arrhythmias",
+    "id": 261
+  },
+  {
+    "chapter": 16,
+    "front": "What combination of findings defines bifascicular block?",
+    "back": "Right bundle branch block combined with left anterior (or less commonly posterior) fascicular block, leaving only one fascicle to conduct all ventricular activation.",
+    "domain": "arrhythmias",
+    "id": 262
+  },
+  {
+    "chapter": 16,
+    "front": "Why is Lyme carditis-related AV block usually managed with temporary rather than permanent pacing?",
+    "back": "Because the block frequently resolves with appropriate antibiotic therapy for the underlying infection, permanent pacing is reserved for the minority whose block persists despite treatment.",
+    "domain": "arrhythmias",
+    "id": 263
+  },
+  {
+    "chapter": 16,
+    "front": "What distinguishes the cardioinhibitory from the vasodepressor component of carotid sinus hypersensitivity, and why does it matter?",
+    "back": "The cardioinhibitory component is a pause that pacing can treat, while the vasodepressor component is a blood pressure fall that pacing alone will not prevent.",
+    "domain": "arrhythmias",
+    "id": 264
+  },
+  {
+    "chapter": 16,
+    "front": "What does the letter code VVI mean in pacemaker terminology?",
+    "back": "Ventricular paced, ventricular sensed, and inhibited response to a sensed intrinsic beat.",
+    "domain": "arrhythmias",
+    "id": 265
+  },
+  {
+    "chapter": 16,
+    "front": "Why is DDD pacing generally preferred over VVI in a patient with intact atrial rhythm?",
+    "back": "DDD preserves atrioventricular synchrony by tracking atrial activity, reducing the risk of pacemaker syndrome that can occur with VVI pacing in this setting.",
+    "domain": "arrhythmias",
+    "id": 266
+  },
+  {
+    "chapter": 16,
+    "front": "What is pacemaker syndrome?",
+    "back": "A constellation of fatigue, dyspnea, and neck or chest fullness caused by atrial contraction against a closed atrioventricular valve when atrioventricular synchrony is lost.",
+    "domain": "arrhythmias",
+    "id": 267
+  },
+  {
+    "chapter": 16,
+    "front": "What complication can result from a high percentage of chronic right ventricular pacing?",
+    "back": "Pacing-induced cardiomyopathy, caused by the dyssynchronous ventricular activation pattern produced by conventional right ventricular pacing.",
+    "domain": "arrhythmias",
+    "id": 268
+  },
+  {
+    "chapter": 16,
+    "front": "What advantage does conduction system pacing offer over conventional right ventricular pacing?",
+    "back": "It captures the His bundle or left bundle branch area directly, preserving a more physiologic activation pattern and avoiding pacing-induced dyssynchrony.",
+    "domain": "arrhythmias",
+    "id": 269
+  },
+  {
+    "chapter": 16,
+    "front": "What is the main limitation of currently available leadless pacemakers?",
+    "back": "They are generally limited to single-chamber ventricular pacing, so they cannot provide atrioventricular synchrony for patients who specifically need it.",
+    "domain": "arrhythmias",
+    "id": 270
+  },
+  {
+    "chapter": 16,
+    "front": "Why does inferior myocardial infarction commonly produce AV nodal block?",
+    "back": "The AV node is usually supplied by the AV nodal branch of the right coronary artery, which is typically occluded in inferior infarction.",
+    "domain": "arrhythmias",
+    "id": 271
+  },
+  {
+    "chapter": 16,
+    "front": "Why does transcatheter aortic valve replacement carry a risk of new conduction disease?",
+    "back": "The aortic annulus lies close to the membranous septum and proximal conduction system, so the deployed valve frame can directly injure the AV node or bundle branches.",
+    "domain": "arrhythmias",
+    "id": 272
+  },
+  {
+    "chapter": 17,
+    "front": "What is the primary anatomic trigger source for atrial fibrillation identified in landmark electrophysiology studies?",
+    "back": "Rapidly firing ectopic foci within the muscular sleeves of tissue extending from the left atrium into the pulmonary veins.",
+    "domain": "arrhythmias",
+    "id": 273
+  },
+  {
+    "chapter": 17,
+    "front": "How is persistent atrial fibrillation distinguished from paroxysmal atrial fibrillation?",
+    "back": "Persistent atrial fibrillation is sustained beyond seven days or requires cardioversion to terminate, while paroxysmal fibrillation self-terminates within seven days, usually within 48 hours.",
+    "domain": "arrhythmias",
+    "id": 274
+  },
+  {
+    "chapter": 17,
+    "front": "What CHA2DS2-VASc score generally warrants anticoagulation in a man with atrial fibrillation?",
+    "back": "A score of two or more, since the annual stroke risk at this level substantially exceeds the bleeding risk of anticoagulation for most patients.",
+    "domain": "arrhythmias",
+    "id": 275
+  },
+  {
+    "chapter": 17,
+    "front": "Why is warfarin, not a direct oral anticoagulant, required for atrial fibrillation with moderate to severe mitral stenosis?",
+    "back": "Direct oral anticoagulants have not demonstrated adequate safety or efficacy in this valvular population and are specifically contraindicated with a mechanical valve.",
+    "domain": "arrhythmias",
+    "id": 276
+  },
+  {
+    "chapter": 17,
+    "front": "What is atrial stunning and why does it matter after cardioversion?",
+    "back": "It is transiently impaired mechanical atrial function even after electrical restoration of sinus rhythm, which is why anticoagulation continues for at least four weeks after cardioversion.",
+    "domain": "arrhythmias",
+    "id": 277
+  },
+  {
+    "chapter": 17,
+    "front": "What did landmark early rhythm control trial evidence show about starting rhythm control within one year of atrial fibrillation diagnosis?",
+    "back": "It reduced the composite outcome of cardiovascular death, stroke, and hospitalization for worsening heart failure or acute coronary syndrome in patients with cardiovascular risk factors.",
+    "domain": "arrhythmias",
+    "id": 278
+  },
+  {
+    "chapter": 17,
+    "front": "What anatomic structure is targeted in catheter ablation of typical atrial flutter?",
+    "back": "The cavotricuspid isthmus, the tissue bridge between the tricuspid annulus and the inferior vena cava that supports the reentrant circuit.",
+    "domain": "arrhythmias",
+    "id": 279
+  },
+  {
+    "chapter": 17,
+    "front": "Why can AV nodal blocking drugs paradoxically fail to slow the ventricular rate in atrial flutter?",
+    "back": "They can simply shift the conduction ratio from 2:1 to a still-rapid 1:1 ratio rather than proportionately slowing the ventricular rate.",
+    "domain": "arrhythmias",
+    "id": 280
+  },
+  {
+    "chapter": 17,
+    "front": "What ECG feature helps distinguish AVNRT from orthodromic AVRT?",
+    "back": "In AVNRT the retrograde P wave is often buried within or immediately following the QRS, while in orthodromic AVRT it appears somewhat later after the QRS.",
+    "domain": "arrhythmias",
+    "id": 281
+  },
+  {
+    "chapter": 17,
+    "front": "What is the difference between orthodromic and antidromic AVRT?",
+    "back": "Orthodromic AVRT conducts down the AV node and back up the accessory pathway producing a narrow QRS, while antidromic AVRT conducts down the pathway and back up the AV node producing a wide QRS.",
+    "domain": "arrhythmias",
+    "id": 282
+  },
+  {
+    "chapter": 17,
+    "front": "Why are AV nodal blocking agents dangerous in atrial fibrillation with Wolff-Parkinson-White syndrome?",
+    "back": "Blocking the AV node removes competition for conduction and can paradoxically accelerate conduction down the accessory pathway, risking degeneration to ventricular fibrillation.",
+    "domain": "arrhythmias",
+    "id": 283
+  },
+  {
+    "chapter": 17,
+    "front": "What is the modified Valsalva maneuver and why is it preferred over the standard technique?",
+    "back": "It adds passive leg elevation and supine repositioning immediately after the strain phase, achieving substantially higher termination rates for AVNRT and AVRT than the standard seated maneuver.",
+    "domain": "arrhythmias",
+    "id": 284
+  },
+  {
+    "chapter": 17,
+    "front": "What is a concealed accessory pathway?",
+    "back": "A pathway that conducts only retrogradely, never producing a delta wave on the resting ECG, but still capable of supporting orthodromic AVRT.",
+    "domain": "arrhythmias",
+    "id": 285
+  },
+  {
+    "chapter": 17,
+    "front": "Why does adenosine fail to reliably terminate atrial tachycardia even though it can be diagnostically useful?",
+    "back": "Atrial tachycardia does not depend on the AV node as part of its circuit, so adenosine only unmasks the underlying atrial activity through transient AV block rather than terminating it.",
+    "domain": "arrhythmias",
+    "id": 286
+  },
+  {
+    "chapter": 17,
+    "front": "What ECG feature defines multifocal atrial tachycardia?",
+    "back": "At least three distinct P wave morphologies with varying PR intervals and an irregular rhythm, most often seen with severe underlying pulmonary disease.",
+    "domain": "arrhythmias",
+    "id": 287
+  },
+  {
+    "chapter": 17,
+    "front": "What is holiday heart syndrome?",
+    "back": "New-onset atrial fibrillation triggered by an acute binge alcohol drinking episode in a person without other identified risk factors.",
+    "domain": "arrhythmias",
+    "id": 288
+  },
+  {
+    "chapter": 18,
+    "front": "What ECG feature defines a premature ventricular complex?",
+    "back": "An early, wide QRS complex of 120 milliseconds or greater, not preceded by a premature P wave, typically followed by a compensatory pause.",
+    "domain": "arrhythmias",
+    "id": 289
+  },
+  {
+    "chapter": 18,
+    "front": "What burden of premature ventricular complexes on ambulatory monitoring raises concern for a reversible cardiomyopathy?",
+    "back": "Generally more than 10 to 15 percent of all beats, which can itself cause premature ventricular complex-induced cardiomyopathy.",
+    "domain": "arrhythmias",
+    "id": 290
+  },
+  {
+    "chapter": 18,
+    "front": "What is the R-on-T phenomenon and why is it concerning?",
+    "back": "A premature ventricular complex occurring on the T wave of the preceding beat, during the vulnerable period of repolarization, carrying an elevated risk of triggering sustained arrhythmia.",
+    "domain": "arrhythmias",
+    "id": 291
+  },
+  {
+    "chapter": 18,
+    "front": "How does monomorphic ventricular tachycardia differ mechanistically from polymorphic ventricular tachycardia?",
+    "back": "Monomorphic tachycardia reflects a stable scar-related reentrant circuit with a fixed morphology, while polymorphic tachycardia shows a continuously changing morphology, often from ischemia or a repolarization abnormality.",
+    "domain": "arrhythmias",
+    "id": 292
+  },
+  {
+    "chapter": 18,
+    "front": "Which idiopathic ventricular tachycardia is described as verapamil-sensitive?",
+    "back": "Fascicular ventricular tachycardia, arising from the left ventricular fascicular system, is distinctively and specifically responsive to verapamil.",
+    "domain": "arrhythmias",
+    "id": 293
+  },
+  {
+    "chapter": 18,
+    "front": "What ECG finding is characteristic of arrhythmogenic right ventricular cardiomyopathy?",
+    "back": "Epsilon waves, small positive deflections at the end of the QRS in the right precordial leads, reflecting delayed activation of fibrofatty right ventricular tissue.",
+    "domain": "arrhythmias",
+    "id": 294
+  },
+  {
+    "chapter": 18,
+    "front": "What defines electrical storm?",
+    "back": "Three or more separate episodes of sustained ventricular tachycardia or ventricular fibrillation within a 24-hour period.",
+    "domain": "arrhythmias",
+    "id": 295
+  },
+  {
+    "chapter": 18,
+    "front": "What is the mechanism by which QT prolongation predisposes to torsades de pointes?",
+    "back": "It creates early afterdepolarizations during the prolonged repolarization phase that can reach threshold and trigger the characteristic twisting reentrant arrhythmia.",
+    "domain": "arrhythmias",
+    "id": 296
+  },
+  {
+    "chapter": 18,
+    "front": "What corrected QT interval is generally considered prolonged, and what value carries substantially elevated torsades risk?",
+    "back": "Greater than 450 milliseconds in men or 460 in women is prolonged, with values exceeding 500 milliseconds carrying substantially elevated risk.",
+    "domain": "arrhythmias",
+    "id": 297
+  },
+  {
+    "chapter": 18,
+    "front": "What triggers are classically associated with LQT1 and LQT2 events respectively?",
+    "back": "LQT1 events are triggered by exercise, especially swimming, while LQT2 events are triggered by sudden auditory stimuli or emotional stress.",
+    "domain": "arrhythmias",
+    "id": 298
+  },
+  {
+    "chapter": 18,
+    "front": "What is the first-line acute treatment for torsades de pointes, and does it require a low serum magnesium level?",
+    "back": "Intravenous magnesium sulfate, which is effective even when the serum magnesium level is within the normal range.",
+    "domain": "arrhythmias",
+    "id": 299
+  },
+  {
+    "chapter": 18,
+    "front": "What distinguishes pause-dependent from adrenergic-dependent torsades de pointes?",
+    "back": "Pause-dependent torsades follows bradycardia or a compensatory pause, typical of acquired forms, while adrenergic-dependent torsades is triggered by exertion or stress, typical of LQT1 and LQT2.",
+    "domain": "arrhythmias",
+    "id": 300
+  },
+  {
+    "chapter": 18,
+    "front": "What is the diagnostic ECG criterion for the type 1 Brugada pattern?",
+    "back": "Coved-type ST segment elevation of at least 2 millimeters followed by a negative T wave in leads V1 and V2.",
+    "domain": "arrhythmias",
+    "id": 301
+  },
+  {
+    "chapter": 18,
+    "front": "Why does fever unmask or worsen the Brugada ECG pattern?",
+    "back": "Fever further impairs cardiac sodium channel function, the same channel already carrying a loss-of-function mutation in Brugada syndrome.",
+    "domain": "arrhythmias",
+    "id": 302
+  },
+  {
+    "chapter": 18,
+    "front": "What is catecholaminergic polymorphic ventricular tachycardia and how is it typically diagnosed?",
+    "back": "An inherited calcium-handling channelopathy, most often involving the ryanodine receptor, diagnosed by reproducing bidirectional or polymorphic ventricular tachycardia during supervised exercise testing since the resting ECG is normal.",
+    "domain": "arrhythmias",
+    "id": 303
+  },
+  {
+    "chapter": 18,
+    "front": "What ejection fraction threshold generally identifies candidates for primary prevention defibrillator placement?",
+    "back": "An ejection fraction of 35 percent or less with heart failure symptoms, assessed after an adequate waiting period following infarction or optimized medical therapy.",
+    "domain": "arrhythmias",
+    "id": 304
+  },
+  {
+    "chapter": 18,
+    "front": "Why does ventricular fibrillation within the first 48 hours of acute MI not automatically mandate long-term defibrillator therapy?",
+    "back": "It is generally considered a reversible, ischemia-related event once revascularization has been achieved, unlike arrhythmia occurring outside that acute window.",
+    "domain": "arrhythmias",
+    "id": 305
+  },
+  {
+    "chapter": 19,
+    "front": "What defines the Vaughan Williams class Ic antiarrhythmic drugs, and what is their major safety limitation?",
+    "back": "Potent sodium channel blockade with slow dissociation kinetics; they should be avoided in patients with structural heart disease, prior infarction, or reduced ejection fraction due to proarrhythmic risk.",
+    "domain": "arrhythmias",
+    "id": 306
+  },
+  {
+    "chapter": 19,
+    "front": "What property gives class Ib agents like lidocaine relative selectivity for ischemic ventricular tissue?",
+    "back": "Use dependence, meaning their sodium channel blocking effect is more pronounced at faster heart rates typical of rapidly firing ischemic tissue.",
+    "domain": "arrhythmias",
+    "id": 307
+  },
+  {
+    "chapter": 19,
+    "front": "What is pill-in-the-pocket therapy, and why is a rate-controlling agent co-administered?",
+    "back": "Self-administered flecainide or propafenone at the onset of paroxysmal atrial fibrillation; a rate-controlling drug is co-administered to prevent rapid 1:1 conduction if the atrial rhythm organizes into flutter.",
+    "domain": "arrhythmias",
+    "id": 308
+  },
+  {
+    "chapter": 19,
+    "front": "Why do sotalol and dofetilide require inpatient initiation with continuous telemetry?",
+    "back": "Both cause dose-dependent QT prolongation with a risk of torsades de pointes that must be monitored before outpatient use begins.",
+    "domain": "arrhythmias",
+    "id": 309
+  },
+  {
+    "chapter": 19,
+    "front": "Why does amiodarone carry a comparatively low torsades de pointes risk despite prolonging the QT interval?",
+    "back": "Its multichannel blocking profile produces more homogeneous ventricular repolarization rather than the heterogeneous prolongation that predisposes to reentry in torsades de pointes.",
+    "domain": "arrhythmias",
+    "id": 310
+  },
+  {
+    "chapter": 19,
+    "front": "What is amiodarone's approximate elimination half-life, and what clinical consequence follows from it?",
+    "back": "Roughly 40 to 60 days; both benefits and toxicities can persist or first appear weeks after the drug is stopped.",
+    "domain": "arrhythmias",
+    "id": 311
+  },
+  {
+    "chapter": 19,
+    "front": "What thyroid effects can amiodarone produce, and why?",
+    "back": "Both hypothyroidism and hyperthyroidism, reflecting amiodarone's high iodine content, which can suppress thyroid hormone synthesis or precipitate destructive thyroiditis.",
+    "domain": "arrhythmias",
+    "id": 312
+  },
+  {
+    "chapter": 19,
+    "front": "How does amiodarone interact with warfarin and digoxin?",
+    "back": "It substantially increases warfarin's anticoagulant effect and raises digoxin levels, both requiring proactive dose reduction and monitoring.",
+    "domain": "arrhythmias",
+    "id": 313
+  },
+  {
+    "chapter": 19,
+    "front": "Why does dronedarone carry lower efficacy than amiodarone despite reduced toxicity?",
+    "back": "Removing the iodine moiety and shortening the half-life reduces thyroid toxicity but also reduces antiarrhythmic efficacy relative to amiodarone.",
+    "domain": "arrhythmias",
+    "id": 314
+  },
+  {
+    "chapter": 19,
+    "front": "In whom is dronedarone specifically associated with increased mortality?",
+    "back": "Patients with decompensated heart failure or permanent atrial fibrillation, restricting its appropriate use to paroxysmal or persistent forms without advanced heart failure.",
+    "domain": "arrhythmias",
+    "id": 315
+  },
+  {
+    "chapter": 19,
+    "front": "Why is uninterrupted anticoagulation generally favored during atrial fibrillation ablation rather than interruption or bridging?",
+    "back": "It reduces periprocedural thromboembolic events, including silent cerebral embolism, compared with interrupting or bridging anticoagulation around the procedure.",
+    "domain": "arrhythmias",
+    "id": 316
+  },
+  {
+    "chapter": 19,
+    "front": "What is the strongest combined indication for cardiac resynchronization therapy?",
+    "back": "Ejection fraction of 35 percent or less, left bundle branch block with QRS duration of 150 milliseconds or greater, and persistent symptoms despite optimized medical therapy.",
+    "domain": "arrhythmias",
+    "id": 317
+  },
+  {
+    "chapter": 19,
+    "front": "What is antitachycardia pacing and when is it typically attempted?",
+    "back": "A brief burst of paced beats slightly faster than a monomorphic ventricular tachycardia, attempted for slower episodes within an appropriate rate range rather than the fastest rhythms or ventricular fibrillation.",
+    "domain": "arrhythmias",
+    "id": 318
+  },
+  {
+    "chapter": 19,
+    "front": "What is the primary functional limitation of a subcutaneous implantable cardioverter-defibrillator?",
+    "back": "It cannot provide antitachycardia pacing or long-term bradycardia pacing, since its entire system sits outside the heart and vasculature.",
+    "domain": "arrhythmias",
+    "id": 319
+  },
+  {
+    "chapter": 19,
+    "front": "What anatomic structure is at risk during posterior left atrial ablation, and what serious complication can result?",
+    "back": "The esophagus, given its close proximity; the rare but potentially fatal complication is an atrioesophageal fistula.",
+    "domain": "arrhythmias",
+    "id": 320
+  },
+  {
+    "chapter": 20,
+    "front": "What is the fundamental distinction between primary and secondary mitral regurgitation?",
+    "back": "Primary regurgitation arises from intrinsic leaflet or chordal disease in an otherwise normal ventricle, while secondary regurgitation arises from ventricular or atrial geometric distortion of a structurally normal valve.",
+    "domain": "valvular_disease",
+    "id": 321
+  },
+  {
+    "chapter": 20,
+    "front": "What is atrial functional mitral regurgitation?",
+    "back": "Secondary mitral regurgitation arising from left atrial and annular dilation, often with long-standing atrial fibrillation, occurring even with normal left ventricular size and function.",
+    "domain": "valvular_disease",
+    "id": 322
+  },
+  {
+    "chapter": 20,
+    "front": "Why is jet area alone considered an unreliable measure of mitral regurgitation severity?",
+    "back": "It is affected by instrument settings, driving pressure, and jet eccentricity, with eccentric jets hugging the atrial wall appearing deceptively small despite severe regurgitation.",
+    "domain": "valvular_disease",
+    "id": 323
+  },
+  {
+    "chapter": 20,
+    "front": "What vena contracta width and effective regurgitant orifice area generally indicate severe primary mitral regurgitation?",
+    "back": "A vena contracta width of 7 millimeters or greater and an effective regurgitant orifice area of 0.40 square centimeters or greater.",
+    "domain": "valvular_disease",
+    "id": 324
+  },
+  {
+    "chapter": 20,
+    "front": "Why are severity thresholds for secondary mitral regurgitation set lower than for primary regurgitation?",
+    "back": "Even a smaller regurgitant volume carries substantial prognostic significance when it occurs in the setting of an already failing ventricle.",
+    "domain": "valvular_disease",
+    "id": 325
+  },
+  {
+    "chapter": 20,
+    "front": "What is the classic anatomic finding in rheumatic mitral stenosis?",
+    "back": "Commissural fusion producing a fish-mouth or funnel-shaped valve orifice, distinct from calcific or degenerative causes of mitral valve dysfunction.",
+    "domain": "valvular_disease",
+    "id": 326
+  },
+  {
+    "chapter": 20,
+    "front": "Why can tachycardia acutely decompensate a patient with previously compensated mitral stenosis?",
+    "back": "Tachycardia shortens the diastolic filling period, producing a disproportionate rise in left atrial pressure across the fixed, narrowed valve orifice.",
+    "domain": "valvular_disease",
+    "id": 327
+  },
+  {
+    "chapter": 20,
+    "front": "What auscultatory finding is lost once a mitral stenosis patient develops atrial fibrillation?",
+    "back": "The presystolic accentuation of the diastolic rumble, which reflects the atrial contraction contribution lost once organized atrial activity ceases.",
+    "domain": "valvular_disease",
+    "id": 328
+  },
+  {
+    "chapter": 20,
+    "front": "What does the Wilkins score assess, and what does it predict?",
+    "back": "Leaflet mobility, thickness, calcification, and subvalvular involvement; a lower score predicts a more favorable and durable result from balloon mitral valvuloplasty.",
+    "domain": "valvular_disease",
+    "id": 329
+  },
+  {
+    "chapter": 20,
+    "front": "What maneuvers change the timing of the mitral valve prolapse click, and why?",
+    "back": "Standing or Valsalva move the click earlier by reducing preload, while squatting delays it by increasing preload and ventricular volume before prolapse occurs.",
+    "domain": "valvular_disease",
+    "id": 330
+  },
+  {
+    "chapter": 20,
+    "front": "Why is posteromedial papillary muscle rupture more common than anterolateral rupture after myocardial infarction?",
+    "back": "The posteromedial papillary muscle typically has a single blood supply from the posterior descending artery, while the anterolateral muscle usually has a dual blood supply.",
+    "domain": "valvular_disease",
+    "id": 331
+  },
+  {
+    "chapter": 20,
+    "front": "What auscultatory feature distinguishes tricuspid regurgitation's murmur from mitral regurgitation's murmur?",
+    "back": "The tricuspid regurgitation murmur increases in intensity with inspiration, reflecting augmented venous return to the right heart, unlike the mitral murmur.",
+    "domain": "valvular_disease",
+    "id": 332
+  },
+  {
+    "chapter": 20,
+    "front": "Why is concurrent tricuspid annuloplasty generally recommended during left-sided valve surgery for significant tricuspid regurgitation?",
+    "back": "Untreated regurgitation frequently progresses afterward, and a later isolated tricuspid reoperation carries substantially higher risk than addressing it at the same operation.",
+    "domain": "valvular_disease",
+    "id": 333
+  },
+  {
+    "chapter": 20,
+    "front": "What are the two objective, symptom-independent thresholds that trigger surgical referral in asymptomatic severe primary mitral regurgitation?",
+    "back": "A left ventricular ejection fraction that has fallen to 60 percent or less, or an end-systolic dimension of 40 millimeters or greater.",
+    "domain": "valvular_disease",
+    "id": 334
+  },
+  {
+    "chapter": 20,
+    "front": "Why is mitral valve repair generally preferred over replacement when anatomically feasible?",
+    "back": "It offers superior long-term survival, freedom from valve-related complications, and preserved subvalvular apparatus supporting normal ventricular geometry compared with replacement.",
+    "domain": "valvular_disease",
+    "id": 335
+  },
+  {
+    "chapter": 20,
+    "front": "In secondary mitral regurgitation, what must occur before transcatheter edge-to-edge repair is considered?",
+    "back": "The patient must remain severely symptomatic despite optimized guideline-directed medical therapy for the underlying heart failure.",
+    "domain": "valvular_disease",
+    "id": 336
+  },
+  {
+    "chapter": 20,
+    "front": "Why is calcific mitral stenosis generally not amenable to balloon valvuloplasty?",
+    "back": "Its rigid, heavily calcified valve morphology makes surgical replacement, rather than the percutaneous approach favored in pliable rheumatic disease, the primary treatment option.",
+    "domain": "valvular_disease",
+    "id": 337
+  },
+  {
+    "chapter": 17,
+    "front": "What P wave feature helps distinguish focal automatic atrial tachycardia from a reentrant arrhythmia like AVNRT?",
+    "back": "A gradual warm-up acceleration at onset and cool-down before termination, in contrast to the abrupt onset and termination typical of reentrant arrhythmias.",
+    "domain": "arrhythmias",
+    "id": 338
+  },
+  {
+    "chapter": 19,
+    "front": "What is the specific risk of using quinidine in atrial flutter or fibrillation without prior AV nodal blockade?",
+    "back": "Its vagolytic properties can paradoxically increase the ventricular rate unless AV nodal blockade is established first.",
+    "domain": "arrhythmias",
+    "id": 339
+  },
+  {
+    "chapter": 19,
+    "front": "Which three beta-blockers have the strongest evidence base for mortality benefit in heart failure with reduced ejection fraction?",
+    "back": "Metoprolol succinate, bisoprolol, and carvedilol.",
+    "domain": "arrhythmias",
+    "id": 340
+  },
+  {
+    "chapter": 21,
+    "front": "What are the two leading causes of aortic stenosis in adults, and which one presents earlier in life?",
+    "back": "Calcific degenerative disease and bicuspid aortic valve disease are the two leading causes. Bicuspid valve disease typically causes stenosis one to two decades earlier than calcific degenerative disease.",
+    "domain": "valvular_disease",
+    "id": 341
+  },
+  {
+    "chapter": 21,
+    "front": "What three echocardiographic parameters define severe aortic stenosis?",
+    "back": "A peak jet velocity of 4.0 m/s or greater, a mean transvalvular gradient of 40 mmHg or greater, and a calculated aortic valve area of 1.0 cm squared or less.",
+    "domain": "valvular_disease",
+    "id": 342
+  },
+  {
+    "chapter": 21,
+    "front": "Why does severe aortic stenosis cause exertional angina even without coronary artery disease?",
+    "back": "Hypertrophied myocardium has increased oxygen demand while elevated left ventricular pressures compress the coronary microcirculation during systole, reducing subendocardial perfusion.",
+    "domain": "valvular_disease",
+    "id": 343
+  },
+  {
+    "chapter": 21,
+    "front": "What is the dimensionless index and why is it useful in grading aortic stenosis?",
+    "back": "It is the ratio of the outflow tract velocity time integral to the aortic valve velocity time integral. A value of 0.25 or less supports severe stenosis, and it avoids the error introduced by squaring the outflow tract diameter measurement.",
+    "domain": "valvular_disease",
+    "id": 344
+  },
+  {
+    "chapter": 21,
+    "front": "What distinguishes acute severe aortic regurgitation from chronic severe aortic regurgitation on physical exam?",
+    "back": "Acute regurgitation often shows a relatively narrow pulse pressure and subtle findings because the ventricle has not had time to develop compensatory eccentric hypertrophy and peripheral vasodilation, unlike the wide pulse pressure of chronic disease.",
+    "domain": "valvular_disease",
+    "id": 345
+  },
+  {
+    "chapter": 21,
+    "front": "What causes an Austin Flint murmur?",
+    "back": "In severe aortic regurgitation, the regurgitant jet interferes with normal opening of the anterior mitral leaflet, producing a low-pitched, mid-to-late diastolic rumble at the apex.",
+    "domain": "valvular_disease",
+    "id": 346
+  },
+  {
+    "chapter": 21,
+    "front": "What are the guideline thresholds for prophylactic aortic root replacement in Marfan syndrome versus a tricuspid valve without connective tissue disease?",
+    "back": "Generally 5.0 cm in Marfan syndrome versus about 5.5 cm in patients without a heritable connective tissue disorder.",
+    "domain": "valvular_disease",
+    "id": 347
+  },
+  {
+    "chapter": 21,
+    "front": "Why does an ejection click in pulmonic stenosis decrease with inspiration?",
+    "back": "This is an unusual finding among right-sided sounds; the click, generated by opening of the abnormal valve, characteristically diminishes with inspiration, helping distinguish it from other right-sided ejection sounds.",
+    "domain": "valvular_disease",
+    "id": 348
+  },
+  {
+    "chapter": 21,
+    "front": "What bedside maneuver helps lateralize an unfamiliar murmur to the right versus left heart?",
+    "back": "Listening for a change in intensity with inspiration versus expiration; right-sided murmurs characteristically increase with inspiration due to augmented venous return.",
+    "domain": "valvular_disease",
+    "id": 349
+  },
+  {
+    "chapter": 21,
+    "front": "What is pulsus parvus et tardus and in whom is it most reliable?",
+    "back": "A diminished amplitude, delayed carotid upstroke seen in severe aortic stenosis; it is more reliable in younger patients with compliant arteries than in elderly patients with stiff arteries.",
+    "domain": "valvular_disease",
+    "id": 350
+  },
+  {
+    "chapter": 21,
+    "front": "What statin trial finding is important to know about aortic stenosis management?",
+    "back": "Randomized trials found statin therapy does not slow the progression of established calcific aortic stenosis, despite its atherosclerosis-like pathophysiology.",
+    "domain": "valvular_disease",
+    "id": 351
+  },
+  {
+    "chapter": 21,
+    "front": "What is the historical natural history of untreated severe aortic stenosis after symptom onset?",
+    "back": "From Ross and Braunwald's classic data: roughly five years survival after angina onset, three years after syncope, and about two years after heart failure symptoms.",
+    "domain": "valvular_disease",
+    "id": 352
+  },
+  {
+    "chapter": 21,
+    "front": "What defines paradoxical low-flow, low-gradient severe aortic stenosis?",
+    "back": "A valve area of 1.0 cm squared or less with a mean gradient under 40 mmHg despite a preserved ejection fraction, typically in a small, hypertrophied, poorly compliant ventricle with low stroke volume.",
+    "domain": "valvular_disease",
+    "id": 353
+  },
+  {
+    "chapter": 21,
+    "front": "Why is bicuspid aortic valve associated with aortic dilation independent of valve severity?",
+    "back": "The same connective tissue and hemodynamic abnormalities producing the bicuspid valve also weaken the aortic wall, requiring aortic surveillance regardless of how severe the valve lesion becomes.",
+    "domain": "valvular_disease",
+    "id": 354
+  },
+  {
+    "chapter": 21,
+    "front": "What is the Gallavardin phenomenon?",
+    "back": "The harsh aortic stenosis murmur heard at the apex can sound musical or high-pitched, resembling mitral regurgitation, potentially causing diagnostic confusion.",
+    "domain": "valvular_disease",
+    "id": 355
+  },
+  {
+    "chapter": 21,
+    "front": "How does vasodilator therapy affect chronic severe aortic regurgitation management?",
+    "back": "It can help symptomatic hypertensive patients by reducing regurgitant fraction, but it has not been shown to delay the need for surgery in normotensive, asymptomatic patients with preserved ejection fraction.",
+    "domain": "valvular_disease",
+    "id": 356
+  },
+  {
+    "chapter": 22,
+    "front": "What INR target is used for a mechanical mitral valve versus an uncomplicated mechanical aortic valve?",
+    "back": "2.5 to 3.5 for a mechanical mitral valve, versus 2.0 to 3.0 for a mechanical aortic valve without additional risk factors.",
+    "domain": "valvular_disease",
+    "id": 357
+  },
+  {
+    "chapter": 22,
+    "front": "Why are direct oral anticoagulants contraindicated in patients with mechanical heart valves?",
+    "back": "A randomized trial testing dabigatran against warfarin in this population was stopped early due to excess thromboembolic and bleeding events with the direct oral anticoagulant.",
+    "domain": "valvular_disease",
+    "id": 358
+  },
+  {
+    "chapter": 22,
+    "front": "What factors favor choosing a bioprosthetic valve over a mechanical valve?",
+    "back": "Older age (roughly over 65 to 70), inability to safely take anticoagulation, and patient preference to avoid lifelong monitoring, including women planning future pregnancy.",
+    "domain": "valvular_disease",
+    "id": 359
+  },
+  {
+    "chapter": 22,
+    "front": "What is patient-prosthesis mismatch?",
+    "back": "A prosthetic valve that is too small for the patient's body size, behaving hemodynamically like residual stenosis even when the valve itself functions normally.",
+    "domain": "valvular_disease",
+    "id": 360
+  },
+  {
+    "chapter": 22,
+    "front": "How has the approved surgical risk population for TAVR changed over time?",
+    "back": "TAVR was initially studied only in inoperable or high-risk patients, then expanded to intermediate and eventually low surgical risk patients as trial evidence accumulated.",
+    "domain": "valvular_disease",
+    "id": 361
+  },
+  {
+    "chapter": 22,
+    "front": "What is the most feared coronary complication of TAVR and how is it screened for?",
+    "back": "Coronary artery obstruction from displaced native valve tissue or calcium over a coronary ostium; screened for by measuring coronary ostial height relative to the native leaflets on pre-procedural CT.",
+    "domain": "valvular_disease",
+    "id": 362
+  },
+  {
+    "chapter": 22,
+    "front": "What is transcatheter edge-to-edge repair conceptually based on?",
+    "back": "A percutaneously deployed clip that approximates the anterior and posterior mitral leaflets, conceptually replicating the surgical Alfieri stitch technique.",
+    "domain": "valvular_disease",
+    "id": 363
+  },
+  {
+    "chapter": 22,
+    "front": "What are the two major Duke criteria for infective endocarditis?",
+    "back": "Persistently positive blood cultures with a typical organism, and echocardiographic evidence of endocardial involvement such as a vegetation, new regurgitation, or an abscess.",
+    "domain": "valvular_disease",
+    "id": 364
+  },
+  {
+    "chapter": 22,
+    "front": "Which organism is most associated with acute right-sided endocarditis in injection drug users?",
+    "back": "Staphylococcus aureus, which tends to produce an acute, rapidly progressive course with high embolic risk in this population.",
+    "domain": "valvular_disease",
+    "id": 365
+  },
+  {
+    "chapter": 22,
+    "front": "Why do enterococcal infections require combination antibiotic therapy for endocarditis?",
+    "back": "Enterococci are intrinsically tolerant to cell-wall-active antibiotics alone and require a synergistic combination, typically a cell-wall-active agent plus an aminoglycoside, for bactericidal killing.",
+    "domain": "valvular_disease",
+    "id": 366
+  },
+  {
+    "chapter": 22,
+    "front": "What distinguishes early from late prosthetic valve endocarditis?",
+    "back": "Early prosthetic valve endocarditis (roughly within the first year) reflects perioperative contamination, dominated by coagulase-negative staphylococci; late disease increasingly resembles native valve endocarditis in organism distribution.",
+    "domain": "valvular_disease",
+    "id": 367
+  },
+  {
+    "chapter": 22,
+    "front": "Which organisms classically cause culture-negative endocarditis?",
+    "back": "Coxiella burnetii, Bartonella species, and Tropheryma whipplei, which require serologic, PCR, or molecular testing rather than standard blood cultures.",
+    "domain": "valvular_disease",
+    "id": 368
+  },
+  {
+    "chapter": 22,
+    "front": "What is nonbacterial thrombotic (marantic) endocarditis?",
+    "back": "Sterile, fibrin-and-platelet vegetations forming in a hypercoagulable state, most classically advanced malignancy or lupus (Libman-Sacks), managed with anticoagulation rather than antibiotics.",
+    "domain": "valvular_disease",
+    "id": 369
+  },
+  {
+    "chapter": 22,
+    "front": "Which patients still qualify for endocarditis antibiotic prophylaxis before dental procedures?",
+    "back": "Patients with a prosthetic valve or prosthetic valve repair material, prior endocarditis, certain unrepaired or recently repaired congenital heart disease, and cardiac transplant recipients with valve regurgitation.",
+    "domain": "valvular_disease",
+    "id": 370
+  },
+  {
+    "chapter": 22,
+    "front": "What is the standard antibiotic prophylaxis regimen before a high-risk dental procedure?",
+    "back": "A single dose of amoxicillin 30 to 60 minutes before the procedure, with clindamycin or a macrolide as alternatives for penicillin allergy.",
+    "domain": "valvular_disease",
+    "id": 371
+  },
+  {
+    "chapter": 22,
+    "front": "When is embolic risk highest in infective endocarditis and why does this matter?",
+    "back": "Embolic risk is highest in the first one to two weeks after starting appropriate antibiotics, which is why early, aggressive antibiotic therapy is emphasized once the diagnosis is confirmed.",
+    "domain": "valvular_disease",
+    "id": 372
+  },
+  {
+    "chapter": 23,
+    "front": "What four criteria are used to diagnose acute pericarditis, and how many must be present?",
+    "back": "Characteristic positional chest pain, a pericardial friction rub, characteristic ECG changes, and a new or worsening pericardial effusion; at least two of the four are required.",
+    "domain": "pericardial_disease",
+    "id": 373
+  },
+  {
+    "chapter": 23,
+    "front": "What is the classic ECG pattern distinguishing acute pericarditis from STEMI?",
+    "back": "Diffuse concave-upward ST elevation sparing lead aVR, combined with PR-segment depression most pronounced in lead II and reciprocal PR elevation in aVR.",
+    "domain": "pericardial_disease",
+    "id": 374
+  },
+  {
+    "chapter": 23,
+    "front": "What is the first-line treatment regimen for acute idiopathic pericarditis and how long is each drug continued?",
+    "back": "A nonsteroidal anti-inflammatory drug for symptom control plus colchicine, typically continued for about three months, since colchicine specifically reduces recurrence risk.",
+    "domain": "pericardial_disease",
+    "id": 375
+  },
+  {
+    "chapter": 23,
+    "front": "Why are corticosteroids generally avoided as first-line therapy for idiopathic pericarditis?",
+    "back": "Early corticosteroid use is associated with a higher rate of recurrent pericarditis compared with NSAID and colchicine therapy.",
+    "domain": "pericardial_disease",
+    "id": 376
+  },
+  {
+    "chapter": 23,
+    "front": "What is Dressler syndrome and how does it differ from early post-infarction pericarditis?",
+    "back": "Dressler syndrome is a delayed, immune-mediated pericarditis occurring weeks to months after cardiac injury, distinct from early post-infarction pericarditis, which results from direct pericardial inflammation over transmural necrosis within days.",
+    "domain": "pericardial_disease",
+    "id": 377
+  },
+  {
+    "chapter": 23,
+    "front": "Why can a small, rapidly accumulating pericardial effusion cause tamponade while a large, slowly accumulating effusion may not?",
+    "back": "The rate of accumulation, not total volume, determines intrapericardial pressure rise; the pericardium can stretch to accommodate slow accumulation but cannot accommodate rapid accumulation without a sharp pressure increase.",
+    "domain": "pericardial_disease",
+    "id": 378
+  },
+  {
+    "chapter": 23,
+    "front": "What is Beck triad and when is it most reliably present?",
+    "back": "Hypotension, jugular venous distension, and muffled heart sounds; most reliably present in rapid, acute tamponade rather than gradual, subacute effusions.",
+    "domain": "pericardial_disease",
+    "id": 379
+  },
+  {
+    "chapter": 23,
+    "front": "What is the mechanism of pulsus paradoxus in tamponade?",
+    "back": "Exaggerated ventricular interdependence within a fixed pericardial volume; inspiratory right ventricular filling expands at the expense of left ventricular filling, reducing systolic blood pressure during inspiration.",
+    "domain": "pericardial_disease",
+    "id": 380
+  },
+  {
+    "chapter": 23,
+    "front": "In which clinical situations can pulsus paradoxus be absent despite significant tamponade?",
+    "back": "Significant atrial septal defect, severe aortic regurgitation, and localized (regional) tamponade compressing only a single chamber.",
+    "domain": "pericardial_disease",
+    "id": 381
+  },
+  {
+    "chapter": 23,
+    "front": "What echocardiographic finding is more specific for hemodynamically significant tamponade than right atrial systolic collapse?",
+    "back": "Right ventricular diastolic collapse persisting through a substantial portion of diastole.",
+    "domain": "pericardial_disease",
+    "id": 382
+  },
+  {
+    "chapter": 23,
+    "front": "How does constrictive pericarditis differ from tamponade in its effect on diastolic filling?",
+    "back": "Constriction allows normal early diastolic filling that then abruptly halts once the fixed pericardial volume limit is reached, unlike tamponade, which limits filling throughout diastole.",
+    "domain": "pericardial_disease",
+    "id": 383
+  },
+  {
+    "chapter": 23,
+    "front": "What is Kussmaul sign and what condition is it classically associated with?",
+    "back": "A paradoxical rise, or failure to fall, in jugular venous pressure during inspiration, classically seen in constrictive pericarditis.",
+    "domain": "pericardial_disease",
+    "id": 384
+  },
+  {
+    "chapter": 23,
+    "front": "How does tissue Doppler e prime velocity differ between constrictive pericarditis and restrictive cardiomyopathy?",
+    "back": "E prime is typically preserved or increased in constrictive pericarditis (normal myocardium, external constraint) but reduced in restrictive cardiomyopathy (diseased, infiltrated myocardium).",
+    "domain": "pericardial_disease",
+    "id": 385
+  },
+  {
+    "chapter": 23,
+    "front": "What defines effusive-constrictive pericarditis?",
+    "back": "Right atrial pressure remains persistently elevated even after pericardiocentesis has successfully drained the effusion, indicating the visceral pericardium itself is constraining the heart.",
+    "domain": "pericardial_disease",
+    "id": 386
+  },
+  {
+    "chapter": 23,
+    "front": "What is the most common cause worldwide of constrictive pericarditis, and why does it carry higher risk of progressing to constriction?",
+    "back": "Tuberculous pericarditis; it carries a notably higher risk of progressing to constriction than idiopathic or viral pericarditis.",
+    "domain": "pericardial_disease",
+    "id": 387
+  },
+  {
+    "chapter": 23,
+    "front": "What laboratory finding in pericardial fluid supports a diagnosis of tuberculous pericarditis?",
+    "back": "A markedly elevated adenosine deaminase level in the fluid, in the appropriate epidemiologic context.",
+    "domain": "pericardial_disease",
+    "id": 388
+  },
+  {
+    "chapter": 24,
+    "front": "How does the hemodynamic pattern of atrial septal defect differ from ventricular septal defect and PDA?",
+    "back": "Atrial septal defect volume-overloads the right heart chambers, while ventricular septal defect and patent ductus arteriosus volume-overload the left heart chambers.",
+    "domain": "congenital_heart_disease",
+    "id": 389
+  },
+  {
+    "chapter": 24,
+    "front": "What shunt ratio threshold generally indicates a hemodynamically significant atrial septal defect warranting closure?",
+    "back": "A pulmonary-to-systemic flow ratio (Qp:Qs) exceeding 1.5 to 1, along with right atrial or right ventricular enlargement.",
+    "domain": "congenital_heart_disease",
+    "id": 390
+  },
+  {
+    "chapter": 24,
+    "front": "Why is percutaneous PFO closure sometimes offered after a cryptogenic stroke?",
+    "back": "In selected younger patients with high-risk anatomic features like an atrial septal aneurysm, trials show closure reduces recurrent stroke risk compared with medical therapy alone.",
+    "domain": "congenital_heart_disease",
+    "id": 391
+  },
+  {
+    "chapter": 24,
+    "front": "Why does an unrepaired large ventricular septal defect progress to Eisenmenger physiology faster than an equivalent atrial septal defect?",
+    "back": "A VSD exposes the pulmonary vasculature directly to systemic left ventricular pressure from birth, unlike an ASD, which exposes it only to lower right atrial pressure.",
+    "domain": "congenital_heart_disease",
+    "id": 392
+  },
+  {
+    "chapter": 24,
+    "front": "What murmur is classic for a hemodynamically significant patent ductus arteriosus and why?",
+    "back": "A continuous, machinery-like murmur heard throughout systole and diastole, because aortic pressure exceeds pulmonary artery pressure throughout the entire cardiac cycle.",
+    "domain": "congenital_heart_disease",
+    "id": 393
+  },
+  {
+    "chapter": 24,
+    "front": "What three findings classically suggest coarctation of the aorta on exam?",
+    "back": "Upper extremity hypertension, diminished or delayed femoral pulses relative to radial pulses (radiofemoral delay), and a systolic pressure gradient between arms and legs.",
+    "domain": "congenital_heart_disease",
+    "id": 394
+  },
+  {
+    "chapter": 24,
+    "front": "What causes rib notching on chest radiography in coarctation?",
+    "back": "Chronic pulsatile erosion of the inferior rib margins by enlarged intercostal collateral arteries that develop to bypass the coarctation.",
+    "domain": "congenital_heart_disease",
+    "id": 395
+  },
+  {
+    "chapter": 24,
+    "front": "What two other conditions is coarctation of the aorta strongly associated with?",
+    "back": "Bicuspid aortic valve and intracranial berry aneurysms of the circle of Willis.",
+    "domain": "congenital_heart_disease",
+    "id": 396
+  },
+  {
+    "chapter": 24,
+    "front": "Why do patients with repaired coarctation often remain hypertensive despite an anatomically successful repair?",
+    "back": "Persistent abnormalities of vascular compliance and possible baroreceptor resetting established during the period of unrepaired coarctation, rather than residual anatomic obstruction.",
+    "domain": "congenital_heart_disease",
+    "id": 397
+  },
+  {
+    "chapter": 24,
+    "front": "What are the four anatomic components of tetralogy of Fallot?",
+    "back": "A large malaligned ventricular septal defect, right ventricular outflow tract obstruction, overriding aorta, and secondary right ventricular hypertrophy.",
+    "domain": "congenital_heart_disease",
+    "id": 398
+  },
+  {
+    "chapter": 24,
+    "front": "What is the most important long-term residual lesion after tetralogy of Fallot repair with a transannular patch?",
+    "back": "Chronic pulmonic regurgitation, since the transannular patch enlarges the outflow tract at the cost of destroying the native pulmonary valve's competence.",
+    "domain": "congenital_heart_disease",
+    "id": 399
+  },
+  {
+    "chapter": 24,
+    "front": "What imaging modality and parameter guide the timing of pulmonary valve replacement in adult tetralogy survivors?",
+    "back": "Serial cardiac MRI measurement of indexed right ventricular end-diastolic volume, with replacement generally considered around 150 to 160 mL/m squared or with new symptoms or arrhythmia.",
+    "domain": "congenital_heart_disease",
+    "id": 400
+  },
+  {
+    "chapter": 24,
+    "front": "What defines Eisenmenger syndrome?",
+    "back": "Fixed, irreversible pulmonary vascular disease from a long-standing large left-to-right shunt, causing pulmonary vascular resistance to exceed systemic resistance and the shunt to reverse to right-to-left, producing cyanosis.",
+    "domain": "congenital_heart_disease",
+    "id": 401
+  },
+  {
+    "chapter": 24,
+    "front": "Why should routine phlebotomy be avoided in secondary erythrocytosis from cyanotic congenital heart disease?",
+    "back": "The elevated hematocrit is a physiologically appropriate compensatory response to chronic hypoxemia, not a primary hematologic disease; phlebotomy is reserved for specific hyperviscosity symptoms.",
+    "domain": "congenital_heart_disease",
+    "id": 402
+  },
+  {
+    "chapter": 24,
+    "front": "Why is pregnancy strongly discouraged in Eisenmenger syndrome?",
+    "back": "The fixed, non-compliant pulmonary vasculature cannot accommodate the substantial rise in cardiac output required during pregnancy and the peripartum period, carrying extremely high maternal mortality risk.",
+    "domain": "congenital_heart_disease",
+    "id": 403
+  },
+  {
+    "chapter": 24,
+    "front": "What are the major long-term complications of a Fontan circulation?",
+    "back": "Atrial arrhythmias, thromboembolism from passive venous flow, systemic ventricular dysfunction, protein-losing enteropathy, and Fontan-associated liver disease from chronic hepatic venous congestion.",
+    "domain": "congenital_heart_disease",
+    "id": 404
+  },
+  {
+    "chapter": 25,
+    "front": "What are the current blood pressure classification thresholds for stage 1 and stage 2 hypertension?",
+    "back": "Stage 1: systolic 130-139 or diastolic 80-89 mmHg. Stage 2: systolic 140 or greater, or diastolic 90 mmHg or greater.",
+    "domain": "hypertension",
+    "id": 405
+  },
+  {
+    "chapter": 25,
+    "front": "What is the difference between white coat and masked hypertension?",
+    "back": "White coat hypertension is elevated office readings with normal out-of-office readings; masked hypertension is normal office readings with elevated out-of-office readings, and carries risk approaching sustained hypertension.",
+    "domain": "hypertension",
+    "id": 406
+  },
+  {
+    "chapter": 25,
+    "front": "What percentage of adult hypertension is essential (primary) versus secondary?",
+    "back": "Roughly 90 to 95 percent is essential hypertension, with the remainder attributable to an identifiable secondary cause.",
+    "domain": "hypertension",
+    "id": 407
+  },
+  {
+    "chapter": 25,
+    "front": "What is the classic biochemical clue to primary aldosteronism, and why can it be misleading?",
+    "back": "Unprovoked or diuretic-induced hypokalemia; misleading because a substantial proportion of patients with primary aldosteronism actually have normal serum potassium.",
+    "domain": "hypertension",
+    "id": 408
+  },
+  {
+    "chapter": 25,
+    "front": "What clinical finding after starting an ACE inhibitor should raise suspicion for renal artery stenosis?",
+    "back": "A significant, otherwise unexplained rise in creatinine, reflecting loss of compensatory efferent arteriolar vasoconstriction in a kidney dependent on angiotensin II to maintain filtration pressure.",
+    "domain": "hypertension",
+    "id": 409
+  },
+  {
+    "chapter": 25,
+    "front": "What is the typical cause of renal artery stenosis in a young woman versus an older patient?",
+    "back": "Fibromuscular dysplasia in a young woman (string-of-beads appearance); atherosclerotic disease at the renal artery origin in older patients.",
+    "domain": "hypertension",
+    "id": 410
+  },
+  {
+    "chapter": 25,
+    "front": "Why is renal artery stenting no longer favored for atherosclerotic renal artery stenosis?",
+    "back": "A landmark randomized trial found no significant benefit of stenting over optimal medical therapy alone for atherosclerotic renal artery stenosis.",
+    "domain": "hypertension",
+    "id": 411
+  },
+  {
+    "chapter": 25,
+    "front": "What test should be used to screen for pheochromocytoma and why?",
+    "back": "Plasma or urinary fractionated metanephrines, which offer higher sensitivity than catecholamines themselves due to more stable, continuous metanephrine production.",
+    "domain": "hypertension",
+    "id": 412
+  },
+  {
+    "chapter": 25,
+    "front": "What distinguishes hypertensive urgency from hypertensive emergency?",
+    "back": "The presence or absence of acute target organ damage, not the absolute blood pressure number; emergency requires acute organ damage and prompt IV therapy, urgency does not.",
+    "domain": "hypertension",
+    "id": 413
+  },
+  {
+    "chapter": 25,
+    "front": "What are the advanced findings of hypertensive retinopathy beyond arteriolar narrowing?",
+    "back": "Flame-shaped hemorrhages, cotton-wool spots, hard exudates, and, in the most severe grade, papilledema from markedly elevated intracranial pressure.",
+    "domain": "hypertension",
+    "id": 414
+  },
+  {
+    "chapter": 25,
+    "front": "Why should ACE inhibitors and angiotensin receptor blockers never be combined in the same patient?",
+    "back": "Combination therapy increases hyperkalemia and acute kidney injury risk without providing additional cardiovascular benefit over either agent alone, per randomized trial data.",
+    "domain": "hypertension",
+    "id": 415
+  },
+  {
+    "chapter": 25,
+    "front": "Which antihypertensive classes are preferred during pregnancy, and which are contraindicated?",
+    "back": "Labetalol, nifedipine, and methyldopa are preferred; ACE inhibitors and angiotensin receptor blockers are contraindicated due to well-documented fetotoxicity.",
+    "domain": "hypertension",
+    "id": 416
+  },
+  {
+    "chapter": 25,
+    "front": "What defines resistant hypertension?",
+    "back": "Blood pressure above goal despite adherence to an appropriate three-drug regimen including a diuretic at maximally tolerated doses, or control requiring four or more medications.",
+    "domain": "hypertension",
+    "id": 417
+  },
+  {
+    "chapter": 25,
+    "front": "What is the best-supported fourth-line add-on agent for resistant hypertension?",
+    "back": "A mineralocorticoid receptor antagonist, most commonly spironolactone, shown in randomized trials to outperform other add-on choices.",
+    "domain": "hypertension",
+    "id": 418
+  },
+  {
+    "chapter": 25,
+    "front": "What blood pressure target did intensive-treatment trial evidence support for most adults with hypertension?",
+    "back": "A target below 130/80 mmHg, shown to reduce cardiovascular mortality compared with a higher, more traditional target, though with modestly increased risk of hypotension and acute kidney injury.",
+    "domain": "hypertension",
+    "id": 419
+  },
+  {
+    "chapter": 25,
+    "front": "Why should obstructive sleep apnea be screened for in resistant hypertension?",
+    "back": "It is a common, frequently underrecognized and treatable contributor to hypertension that is disproportionately prevalent among patients with resistant, difficult-to-control blood pressure.",
+    "domain": "hypertension",
+    "id": 420
+  },
+  {
+    "chapter": 26,
+    "front": "What distinguishes hypertensive emergency from severe asymptomatic hypertension?",
+    "back": "Hypertensive emergency is defined by the presence of acute end-organ injury (brain, heart, aorta, kidney, or placenta), not by a specific blood pressure number; severe asymptomatic hypertension has no acute organ injury and is treated gradually with oral agents.",
+    "domain": "hypertension",
+    "id": 421
+  },
+  {
+    "chapter": 26,
+    "front": "What is the recommended target for mean arterial pressure reduction in hypertensive encephalopathy in the first hour?",
+    "back": "No more than a 20 to 25 percent reduction in mean arterial pressure within the first hour, to avoid overshoot and watershed cerebral ischemia.",
+    "domain": "hypertension",
+    "id": 422
+  },
+  {
+    "chapter": 26,
+    "front": "Why must heart rate control precede or accompany vasodilator therapy in acute aortic dissection?",
+    "back": "A pure vasodilator given alone causes reflex tachycardia and increased contractility, which raises aortic wall shear stress (dP/dt) and can propagate the dissection; beta blockade blunts this reflex.",
+    "domain": "hypertension",
+    "id": 423
+  },
+  {
+    "chapter": 26,
+    "front": "Why is aggressive diuresis not the primary therapy for hypertension-mediated flash pulmonary edema?",
+    "back": "This presentation is primarily an afterload problem from a sudden rise in left ventricular end-diastolic pressure, not volume overload; intravenous vasodilators like nitroglycerin are the primary therapy, with diuretics as an adjunct only if volume overload is also present.",
+    "domain": "hypertension",
+    "id": 424
+  },
+  {
+    "chapter": 26,
+    "front": "What renal lesion underlies malignant hypertension?",
+    "back": "Fibrinoid necrosis of the afferent arterioles, which can cause a rapid decline in glomerular filtration rate, hematuria, and proteinuria.",
+    "domain": "hypertension",
+    "id": 425
+  },
+  {
+    "chapter": 26,
+    "front": "What toxicity risk limits prolonged sodium nitroprusside infusion, especially in renal impairment?",
+    "back": "Accumulation of the cyanide and thiocyanate metabolites, which can cause lactic acidosis and altered mental status; thiosulfate co-administration can mitigate this risk.",
+    "domain": "hypertension",
+    "id": 426
+  },
+  {
+    "chapter": 26,
+    "front": "What defines preeclampsia with severe features?",
+    "back": "New-onset hypertension after 20 weeks gestation with severe-range blood pressure (systolic 160 or diastolic 110 or higher) plus evidence of maternal end-organ dysfunction such as thrombocytopenia, elevated liver enzymes, renal insufficiency, pulmonary edema, or new cerebral/visual symptoms.",
+    "domain": "hypertension",
+    "id": 427
+  },
+  {
+    "chapter": 26,
+    "front": "What is the specific purpose of magnesium sulfate in severe preeclampsia?",
+    "back": "Seizure prophylaxis and treatment of eclamptic seizures, not blood pressure control; it works through cerebral vasodilation and reduced neuronal excitability.",
+    "domain": "hypertension",
+    "id": 428
+  },
+  {
+    "chapter": 26,
+    "front": "How is neurogenic orthostatic hypotension distinguished from volume-depletion-related orthostatic hypotension at the bedside?",
+    "back": "Neurogenic orthostatic hypotension shows a blunted heart rate response despite a significant blood pressure fall on standing, while volume depletion typically produces a brisk compensatory tachycardia.",
+    "domain": "hypertension",
+    "id": 429
+  },
+  {
+    "chapter": 26,
+    "front": "What dangerous drug interaction can cause severe, refractory hypotension?",
+    "back": "Combining nitrates (such as nitroglycerin) with phosphodiesterase-5 inhibitors (such as sildenafil or tadalafil), both of which act through the nitric oxide pathway, producing additive vasodilation.",
+    "domain": "hypertension",
+    "id": 430
+  },
+  {
+    "chapter": 26,
+    "front": "Why should unopposed beta blockade be avoided in pheochromocytoma crisis?",
+    "back": "Blocking beta-2 mediated vasodilation while leaving alpha-1 mediated vasoconstriction unopposed can cause a paradoxical, severe rise in blood pressure; alpha blockade (phentolamine or phenoxybenzamine) must precede beta blockade.",
+    "domain": "hypertension",
+    "id": 431
+  },
+  {
+    "chapter": 26,
+    "front": "What is autonomic dysreflexia and what is its most urgent initial management step?",
+    "back": "A massive unopposed sympathetic surge triggered by a noxious stimulus below a spinal cord injury at or above T6, most often bladder distension; removing the trigger (e.g., straight catheterization) is often more urgent and effective than pharmacologic treatment alone.",
+    "domain": "hypertension",
+    "id": 432
+  },
+  {
+    "chapter": 26,
+    "front": "What is cerebral hyperperfusion syndrome and after which procedure is it a specific concern?",
+    "back": "A syndrome of headache, seizures, and risk of intracerebral hemorrhage from sudden restoration of normal perfusion pressure to chronically hypoperfused brain tissue; it is a specific concern after carotid endarterectomy or stenting.",
+    "domain": "hypertension",
+    "id": 433
+  },
+  {
+    "chapter": 26,
+    "front": "What is postprandial hypotension and who is it common in?",
+    "back": "A fall in blood pressure within one to two hours after eating from splanchnic blood pooling with inadequate compensatory sympathetic response; common in older adults and patients with autonomic dysfunction or diabetes.",
+    "domain": "hypertension",
+    "id": 434
+  },
+  {
+    "chapter": 26,
+    "front": "How does vasovagal syncope differ mechanistically from neurogenic orthostatic hypotension?",
+    "back": "Vasovagal syncope involves a rapid, near-simultaneous fall in both heart rate and blood pressure (vagal bradycardia plus sympathetic withdrawal) triggered by a specific situational stimulus, unlike the gradual, heart-rate-sparing pressure fall of neurogenic orthostatic hypotension.",
+    "domain": "hypertension",
+    "id": 435
+  },
+  {
+    "chapter": 26,
+    "front": "Which intravenous agent is preferred for both heart rate and blood pressure control in aortic dissection given its rapid onset and offset?",
+    "back": "Esmolol, an ultra-short-acting beta-1 selective blocker with a half-life of about nine minutes, allowing rapid titration and reversal if hypotension develops.",
+    "domain": "hypertension",
+    "id": 436
+  },
+  {
+    "chapter": 27,
+    "front": "What defines intermittent claudication?",
+    "back": "Reproducible muscle pain, cramping, or fatigue brought on by a consistent level of walking exertion and relieved within a few minutes of rest, due to peripheral arterial disease.",
+    "domain": "vascular_disease",
+    "id": 437
+  },
+  {
+    "chapter": 27,
+    "front": "What ankle-brachial index value is diagnostic of peripheral arterial disease?",
+    "back": "0.90 or lower; values above 1.40 suggest noncompressible, calcified arteries rather than normal perfusion, requiring toe-brachial index testing instead.",
+    "domain": "vascular_disease",
+    "id": 438
+  },
+  {
+    "chapter": 27,
+    "front": "What are the six Ps of acute limb ischemia?",
+    "back": "Pain, pallor, poikilothermia (coldness), pulselessness, paresthesia, and paralysis; paresthesia and paralysis indicate more advanced ischemia requiring urgent revascularization.",
+    "domain": "vascular_disease",
+    "id": 439
+  },
+  {
+    "chapter": 27,
+    "front": "What does Rutherford category III (irreversible) acute limb ischemia indicate for management?",
+    "back": "The limb is not salvageable; primary amputation, rather than attempted revascularization, is appropriate to prevent life-threatening reperfusion injury and systemic toxicity.",
+    "domain": "vascular_disease",
+    "id": 440
+  },
+  {
+    "chapter": 27,
+    "front": "At what abdominal aortic aneurysm diameter is elective repair generally considered in men versus women?",
+    "back": "5.5 centimeters in men; 5.0 centimeters (or approaching this) in women, given their higher rupture risk at smaller diameters.",
+    "domain": "vascular_disease",
+    "id": 441
+  },
+  {
+    "chapter": 27,
+    "front": "What is an endoleak and why does it matter after endovascular aneurysm repair?",
+    "back": "Persistent flow of blood into the aneurysm sac around or through the stent graft, which can cause continued sac growth and delayed rupture, requiring lifelong surveillance imaging.",
+    "domain": "vascular_disease",
+    "id": 442
+  },
+  {
+    "chapter": 27,
+    "front": "What defines Stanford type A versus type B aortic dissection?",
+    "back": "Type A involves the ascending aorta (surgical emergency); type B is confined to the descending aorta distal to the left subclavian artery (generally managed medically unless complicated).",
+    "domain": "vascular_disease",
+    "id": 443
+  },
+  {
+    "chapter": 27,
+    "front": "What does the law of Laplace explain about aneurysm rupture risk?",
+    "back": "Wall tension is proportional to pressure times radius divided by wall thickness, so as an aneurysm enlarges, wall tension rises disproportionately, explaining why rupture risk increases nonlinearly with diameter.",
+    "domain": "vascular_disease",
+    "id": 444
+  },
+  {
+    "chapter": 27,
+    "front": "Which connective tissue disorder carries the highest risk of spontaneous arterial rupture often without significant preceding aneurysmal dilation?",
+    "back": "Vascular Ehlers-Danlos syndrome, caused by mutations in the gene encoding type III collagen.",
+    "domain": "vascular_disease",
+    "id": 445
+  },
+  {
+    "chapter": 27,
+    "front": "What is Leriche syndrome?",
+    "back": "Thigh and buttock claudication with erectile dysfunction from aortoiliac arterial disease.",
+    "domain": "vascular_disease",
+    "id": 446
+  },
+  {
+    "chapter": 27,
+    "front": "Why is ischemic rest pain relieved by dangling the leg over the bed?",
+    "back": "The dependent position adds hydrostatic pressure that modestly augments arterial perfusion to severely ischemic distal tissue.",
+    "domain": "vascular_disease",
+    "id": 447
+  },
+  {
+    "chapter": 27,
+    "front": "Why is cilostazol contraindicated in heart failure of any severity?",
+    "back": "As a phosphodiesterase-3 inhibitor, it has been associated with increased mortality in heart failure patients, a class effect seen with related inotropic agents.",
+    "domain": "vascular_disease",
+    "id": 448
+  },
+  {
+    "chapter": 27,
+    "front": "What classic sign suggests acute mesenteric ischemia before peritoneal signs develop?",
+    "back": "Pain out of proportion to physical examination findings, reflecting early bowel ischemia before transmural infarction and perforation occur.",
+    "domain": "vascular_disease",
+    "id": 449
+  },
+  {
+    "chapter": 27,
+    "front": "For symptomatic carotid stenosis of 70 to 99 percent, what is the general timing recommendation for revascularization?",
+    "back": "Generally within two weeks of the qualifying stroke or transient ischemic attack, to maximize benefit.",
+    "domain": "vascular_disease",
+    "id": 450
+  },
+  {
+    "chapter": 27,
+    "front": "What angiographic finding is characteristic of fibromuscular dysplasia?",
+    "back": "A string-of-beads appearance, most common in the renal and carotid arteries of younger women.",
+    "domain": "vascular_disease",
+    "id": 451
+  },
+  {
+    "chapter": 27,
+    "front": "Why is asymptomatic carotid stenosis managed differently than symptomatic disease?",
+    "back": "Modern intensive medical therapy (high-intensity statins, antiplatelet agents) has narrowed the historical revascularization advantage seen in older trials, so intervention is reserved for carefully selected patients after shared decision-making.",
+    "domain": "vascular_disease",
+    "id": 452
+  },
+  {
+    "chapter": 28,
+    "front": "What are the three components of Virchow's triad?",
+    "back": "Venous stasis, endothelial injury, and hypercoagulability, the three underlying mechanisms of venous thrombosis.",
+    "domain": "pulmonary_vascular",
+    "id": 453
+  },
+  {
+    "chapter": 28,
+    "front": "When can a D-dimer test safely exclude venous thromboembolism?",
+    "back": "Only in patients with a low pretest probability by a validated clinical prediction rule (such as the Wells score); it is far less useful in hospitalized, elderly, or pregnant patients due to reduced specificity.",
+    "domain": "pulmonary_vascular",
+    "id": 454
+  },
+  {
+    "chapter": 28,
+    "front": "What defines high-risk (massive) pulmonary embolism?",
+    "back": "Sustained hypotension (systolic blood pressure below 90 mmHg for at least 15 minutes), need for vasopressor support, or overt hemodynamic collapse; this is the group for whom systemic thrombolysis is most clearly indicated.",
+    "domain": "pulmonary_vascular",
+    "id": 455
+  },
+  {
+    "chapter": 28,
+    "front": "What defines intermediate-high risk (submassive) pulmonary embolism?",
+    "back": "Normal blood pressure with BOTH evidence of right ventricular strain on imaging (RV dilation) AND an elevated cardiac biomarker (troponin or BNP).",
+    "domain": "pulmonary_vascular",
+    "id": 456
+  },
+  {
+    "chapter": 28,
+    "front": "Which anticoagulants require an initial 5 to 10 day parenteral lead-in before transitioning to the oral agent?",
+    "back": "Dabigatran and edoxaban; apixaban and rivaroxaban can be started directly using an initial loading-dose strategy.",
+    "domain": "pulmonary_vascular",
+    "id": 457
+  },
+  {
+    "chapter": 28,
+    "front": "How long is anticoagulation generally continued for a provoked venous thromboembolism versus an unprovoked one?",
+    "back": "A finite three-month course for a provoked event with a resolved transient risk factor; a minimum of three months with consideration of extended or indefinite therapy for unprovoked or persistent-risk-factor events.",
+    "domain": "pulmonary_vascular",
+    "id": 458
+  },
+  {
+    "chapter": 28,
+    "front": "What imaging finding is diagnostic of chronic thromboembolic pulmonary hypertension?",
+    "back": "Mismatched segmental or larger perfusion defects on ventilation-perfusion scan (normal ventilation, absent/reduced perfusion), distinct from the more homogeneous reduction seen in pulmonary arterial hypertension.",
+    "domain": "pulmonary_vascular",
+    "id": 459
+  },
+  {
+    "chapter": 28,
+    "front": "What is the treatment of choice for surgically accessible chronic thromboembolic pulmonary hypertension?",
+    "back": "Pulmonary thromboendarterectomy, performed using deep hypothermic circulatory arrest, which can dramatically improve or near-normalize pulmonary artery pressures.",
+    "domain": "pulmonary_vascular",
+    "id": 460
+  },
+  {
+    "chapter": 28,
+    "front": "What distinguishes precapillary from postcapillary pulmonary hypertension on right heart catheterization?",
+    "back": "Precapillary disease has an elevated pulmonary vascular resistance with a normal/low pulmonary artery wedge pressure (15 mmHg or less); postcapillary disease has an elevated wedge pressure (above 15 mmHg) reflecting left heart disease.",
+    "domain": "pulmonary_vascular",
+    "id": 461
+  },
+  {
+    "chapter": 28,
+    "front": "Why are pulmonary arterial hypertension-specific vasodilators generally avoided in Group 2 and Group 3 pulmonary hypertension?",
+    "back": "They have shown neutral or harmful effects, potentially worsening pulmonary edema (Group 2, left heart disease) or worsening ventilation-perfusion mismatch (Group 3, lung disease/hypoxia).",
+    "domain": "pulmonary_vascular",
+    "id": 462
+  },
+  {
+    "chapter": 28,
+    "front": "What is the McConnell sign on echocardiography?",
+    "back": "Akinesis of the mid right ventricular free wall with preserved apical contractility, suggesting acute pulmonary embolism with right ventricular strain.",
+    "domain": "pulmonary_vascular",
+    "id": 463
+  },
+  {
+    "chapter": 28,
+    "front": "What is current guidance on inferior vena cava filter placement?",
+    "back": "Reserved for patients with acute venous thromboembolism and an absolute contraindication to anticoagulation; filters have not shown a mortality benefit in patients who can otherwise receive anticoagulation and carry long-term complication risks.",
+    "domain": "pulmonary_vascular",
+    "id": 464
+  },
+  {
+    "chapter": 28,
+    "front": "What is May-Thurner syndrome?",
+    "back": "Compression of the left common iliac vein by the overlying right common iliac artery, predisposing to left-sided iliofemoral deep vein thrombosis, particularly in young women.",
+    "domain": "pulmonary_vascular",
+    "id": 465
+  },
+  {
+    "chapter": 28,
+    "front": "What distinguishes venous stasis ulcers from arterial insufficiency ulcers by location?",
+    "back": "Venous stasis ulcers typically occur over the medial malleolus, while arterial insufficiency ulcers occur over pressure points such as the toes, heels, or bony prominences.",
+    "domain": "pulmonary_vascular",
+    "id": 466
+  },
+  {
+    "chapter": 28,
+    "front": "Why is superficial venous thrombosis near the saphenofemoral junction treated more aggressively than distal superficial thrombosis?",
+    "back": "Thrombus within about 3 to 5 centimeters of the junction carries meaningful risk of propagation into the deep venous system, so prophylactic-dose anticoagulation for roughly 45 days is considered.",
+    "domain": "pulmonary_vascular",
+    "id": 467
+  },
+  {
+    "chapter": 28,
+    "front": "Why is low molecular weight heparin traditionally favored over warfarin in pregnancy-associated venous thromboembolism?",
+    "back": "Warfarin and direct oral anticoagulants cross the placenta and carry teratogenic or fetal bleeding risk, while low molecular weight heparin does not cross the placenta.",
+    "domain": "pulmonary_vascular",
+    "id": 468
+  },
+  {
+    "chapter": 29,
+    "front": "What defines familial hypercholesterolemia and its classic physical findings?",
+    "back": "An autosomal dominant condition most often from LDL receptor gene mutations, causing markedly elevated LDL cholesterol from birth, premature atherosclerotic disease, tendon xanthomas, and corneal arcus.",
+    "domain": "systemic_disorders",
+    "id": 469
+  },
+  {
+    "chapter": 29,
+    "front": "What LDL cholesterol target is generally recommended for secondary prevention patients?",
+    "back": "At least a 50 percent reduction from baseline, with an absolute target generally below 70 mg/dL, and below 55 mg/dL for the highest-risk patients.",
+    "domain": "systemic_disorders",
+    "id": 470
+  },
+  {
+    "chapter": 29,
+    "front": "What is the mechanism and specific niche of PCSK9 inhibitors?",
+    "back": "Monoclonal antibodies (evolocumab, alirocumab) that prevent degradation of the hepatic LDL receptor, increasing LDL clearance; used for very high-risk patients who remain above target on maximal statin plus ezetimibe therapy.",
+    "domain": "systemic_disorders",
+    "id": 471
+  },
+  {
+    "chapter": 29,
+    "front": "Why is diabetes considered a coronary risk equivalent?",
+    "back": "A patient with diabetes but no known coronary disease carries cardiovascular risk comparable to a patient who has already had a myocardial infarction, justifying high-intensity statin therapy regardless of baseline LDL.",
+    "domain": "systemic_disorders",
+    "id": 472
+  },
+  {
+    "chapter": 29,
+    "front": "Through what mechanism do SGLT2 inhibitors reduce heart failure hospitalization so rapidly (within weeks)?",
+    "back": "Natriuresis and favorable effects on cardiac loading conditions (volume reduction), not plaque regression or glycemic improvement, which would take much longer.",
+    "domain": "systemic_disorders",
+    "id": 473
+  },
+  {
+    "chapter": 29,
+    "front": "In which population, beyond diabetes, have SGLT2 inhibitors shown benefit?",
+    "back": "Patients with heart failure with reduced or preserved ejection fraction without diabetes, and patients with chronic kidney disease independent of heart failure or diabetes status.",
+    "domain": "systemic_disorders",
+    "id": 474
+  },
+  {
+    "chapter": 29,
+    "front": "What coronary artery calcium score result supports deferring statin therapy in an intermediate-risk patient?",
+    "back": "A score of zero, which identifies a subgroup with genuinely low near-term risk who can often safely defer statin initiation with reassessment in several years.",
+    "domain": "systemic_disorders",
+    "id": 475
+  },
+  {
+    "chapter": 29,
+    "front": "What is the recommended approach to suspected statin-associated muscle symptoms before abandoning statin therapy?",
+    "back": "Confirm the temporal relationship, correct contributing factors (hypothyroidism, vitamin D deficiency, interacting drugs), and try a different statin, lower dose, or intermittent (every-other-day) dosing with a long half-life statin.",
+    "domain": "systemic_disorders",
+    "id": 476
+  },
+  {
+    "chapter": 29,
+    "front": "What triglyceride level specifically raises concern for acute pancreatitis?",
+    "back": "Above 500 mg/dL, and particularly above 1000 mg/dL, warranting a treatment approach focused on triglyceride reduction.",
+    "domain": "systemic_disorders",
+    "id": 477
+  },
+  {
+    "chapter": 29,
+    "front": "Why can apolipoprotein B better capture cardiovascular risk than LDL cholesterol alone in insulin resistance?",
+    "back": "Insulin-resistant patients tend to carry more numerous, smaller, cholesterol-depleted (more atherogenic) LDL particles, so LDL cholesterol can understate true atherogenic particle number, which apolipoprotein B measures directly.",
+    "domain": "systemic_disorders",
+    "id": 478
+  },
+  {
+    "chapter": 29,
+    "front": "What five features define the metabolic syndrome (need at least 3 of 5)?",
+    "back": "Increased waist circumference, elevated triglycerides (\u2265150 mg/dL), reduced HDL cholesterol, elevated blood pressure (or treatment), and elevated fasting glucose (or treatment).",
+    "domain": "systemic_disorders",
+    "id": 479
+  },
+  {
+    "chapter": 29,
+    "front": "What is current guidance on aspirin for primary prevention of cardiovascular disease?",
+    "back": "Generally not recommended for most adults, particularly those over 70 or at increased bleeding risk, given a more modest ischemic benefit that is often nearly offset by bleeding risk in modern trial data; reserved for select younger, higher-risk primary prevention patients after individualized discussion.",
+    "domain": "systemic_disorders",
+    "id": 480
+  },
+  {
+    "chapter": 29,
+    "front": "How quickly does cardiovascular risk begin to improve after smoking cessation?",
+    "back": "Meaningful reductions in cardiovascular event risk begin within the first one to two years of cessation, well before risk fully returns to that of a lifelong nonsmoker.",
+    "domain": "systemic_disorders",
+    "id": 481
+  },
+  {
+    "chapter": 29,
+    "front": "Why is lipoprotein(a) not substantially reduced by diet, exercise, or most standard lipid-lowering therapies?",
+    "back": "It is a largely genetically determined lipoprotein particle, so lifestyle changes and most standard lipid-lowering drugs have little effect on its level; dedicated lipoprotein(a)-lowering therapies are in active development.",
+    "domain": "systemic_disorders",
+    "id": 482
+  },
+  {
+    "chapter": 29,
+    "front": "Why do angiotensin-converting enzyme inhibitors and angiotensin receptor blockers provide specific renal benefit in diabetic kidney disease beyond blood pressure lowering?",
+    "back": "They preferentially dilate the efferent glomerular arteriole, reducing intraglomerular pressure, a renoprotective mechanism distinct from and complementary to their general antihypertensive effect.",
+    "domain": "systemic_disorders",
+    "id": 483
+  },
+  {
+    "chapter": 29,
+    "front": "What is postprandial hypotension's cardiovascular-adjacent counterpart discussed with alcohol intake, and what pattern of atrial arrhythmia can heavy binge drinking trigger?",
+    "back": "Holiday heart syndrome, atrial fibrillation triggered by an acute alcohol binge, distinct from the direct dilated cardiomyopathy caused by sustained heavy alcohol intake.",
+    "domain": "systemic_disorders",
+    "id": 484
+  },
+  {
+    "chapter": 30,
+    "front": "What is the mechanistic difference between anthracycline and trastuzumab cardiotoxicity?",
+    "back": "Anthracyclines cause direct oxidative myocyte injury and cell death (dose-dependent, less reliably reversible); trastuzumab interferes with HER2-mediated cardiomyocyte survival signaling (not clearly dose-dependent, generally more reversible with treatment interruption).",
+    "domain": "systemic_disorders",
+    "id": 485
+  },
+  {
+    "chapter": 30,
+    "front": "What echocardiographic measure can detect subclinical cardiotoxicity before ejection fraction declines?",
+    "back": "Global longitudinal strain, a more sensitive measure of myocardial deformation than ejection fraction alone.",
+    "domain": "systemic_disorders",
+    "id": 486
+  },
+  {
+    "chapter": 30,
+    "front": "What is the characteristic delayed radiation-associated coronary artery disease pattern after chest radiation?",
+    "back": "Disease affecting the proximal coronary segments, particularly the left main and proximal left anterior descending artery, in left-sided chest irradiation, reflecting the radiation field.",
+    "domain": "systemic_disorders",
+    "id": 487
+  },
+  {
+    "chapter": 30,
+    "front": "What functional capacity threshold generally allows a patient to proceed to noncardiac surgery without further cardiac testing?",
+    "back": "4 metabolic equivalents or more (e.g., climbing a flight of stairs or walking briskly without limiting symptoms), even in the presence of several cardiac risk factors.",
+    "domain": "systemic_disorders",
+    "id": 488
+  },
+  {
+    "chapter": 30,
+    "front": "What did large randomized trials show about routine perioperative beta blocker initiation immediately before surgery?",
+    "back": "It modestly reduced perioperative myocardial infarction but significantly increased perioperative stroke, hypotension, and bradycardia, with a trend toward increased mortality; routine new initiation is no longer recommended.",
+    "domain": "systemic_disorders",
+    "id": 489
+  },
+  {
+    "chapter": 30,
+    "front": "What immune checkpoint inhibitor toxicity carries disproportionately high mortality relative to its incidence?",
+    "back": "Immune-mediated myocarditis, which can present with nonspecific symptoms and requires prompt troponin/ECG testing, cardiac MRI or biopsy, and immediate high-dose immunosuppression plus checkpoint inhibitor discontinuation.",
+    "domain": "systemic_disorders",
+    "id": 490
+  },
+  {
+    "chapter": 30,
+    "front": "What is myocardial infarction with nonobstructive coronary arteries (MINOCA) and who is disproportionately affected?",
+    "back": "A confirmed myocardial infarction without significant angiographic coronary stenosis, from mechanisms like plaque disruption without persistent stenosis, vasospasm, or spontaneous coronary artery dissection; disproportionately affects women.",
+    "domain": "systemic_disorders",
+    "id": 491
+  },
+  {
+    "chapter": 30,
+    "front": "What condition disproportionately affects young women, is often precipitated by stress, and is linked to fibromuscular dysplasia?",
+    "back": "Spontaneous coronary artery dissection, where a spontaneous intimal or medial tear creates a false lumen compressing the true coronary lumen.",
+    "domain": "systemic_disorders",
+    "id": 492
+  },
+  {
+    "chapter": 30,
+    "front": "Why is a history of preeclampsia important for a woman's long-term cardiovascular risk assessment?",
+    "back": "It is associated with substantially increased long-term risk of hypertension, ischemic heart disease, and stroke, functioning like a positive risk marker to be incorporated into risk assessment for decades afterward.",
+    "domain": "systemic_disorders",
+    "id": 493
+  },
+  {
+    "chapter": 30,
+    "front": "What proposed mechanism links prolactin to peripartum cardiomyopathy?",
+    "back": "Cleavage of prolactin into a smaller, antiangiogenic fragment that damages myocardial vascular endothelium, leading to study of bromocriptine (a prolactin-suppressing agent) as adjunctive treatment.",
+    "domain": "systemic_disorders",
+    "id": 494
+  },
+  {
+    "chapter": 30,
+    "front": "How must heart failure therapy be modified for peripartum cardiomyopathy diagnosed during pregnancy versus after delivery?",
+    "back": "During pregnancy, ACE inhibitors/ARBs are contraindicated (fetal toxicity) and hydralazine/nitrates are substituted; standard guideline-directed heart failure therapy can begin after delivery, with attention to lactation compatibility.",
+    "domain": "systemic_disorders",
+    "id": 495
+  },
+  {
+    "chapter": 30,
+    "front": "What is takotsubo (stress) cardiomyopathy and its classic echocardiographic pattern?",
+    "back": "A transient, stress-precipitated left ventricular dysfunction, classically apical ballooning with basal hyperkinesis, mimicking myocardial infarction but without a culprit obstructive coronary lesion; predominantly affects postmenopausal women.",
+    "domain": "systemic_disorders",
+    "id": 496
+  },
+  {
+    "chapter": 30,
+    "front": "What is the modified World Health Organization classification used for in cardio-obstetrics?",
+    "back": "It stratifies maternal cardiac risk from class I (risk similar to the general population) to class IV (conditions for which pregnancy is generally contraindicated, such as severe pulmonary arterial hypertension), guiding counseling and monitoring intensity.",
+    "domain": "systemic_disorders",
+    "id": 497
+  },
+  {
+    "chapter": 30,
+    "front": "Why do vascular endothelial growth factor inhibitors used in cancer therapy characteristically cause hypertension?",
+    "back": "They disrupt nitric oxide-mediated vasodilation and cause microvascular rarefaction; blood pressure must be monitored and aggressively treated since uncontrolled hypertension can become dose-limiting.",
+    "domain": "systemic_disorders",
+    "id": 498
+  },
+  {
+    "chapter": 30,
+    "front": "What precaution is needed for a pacemaker-dependent patient undergoing surgery with electrocautery?",
+    "back": "Electrocautery can be misinterpreted by the device, suppressing pacing output; the device should be set to an asynchronous pacing mode or otherwise ensured to pace appropriately during anticipated electrocautery use.",
+    "domain": "systemic_disorders",
+    "id": 499
+  },
+  {
+    "chapter": 30,
+    "front": "Why is cardiac rehabilitation underutilized despite strong evidence for reducing mortality and readmission?",
+    "back": "Referral and completion rates are lower in women, older adults, and patients from lower socioeconomic backgrounds, representing a correctable gap between evidence and actual delivery of care.",
+    "domain": "systemic_disorders",
+    "id": 500
+  }
+]
